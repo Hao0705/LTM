@@ -12,6 +12,8 @@
 #include "message.h"
 #include "utils.h"
 
+// file.txt | dl
+// file.txt
 int server_find(int sockfd, char *arg) {
     FILE *fp;
     char buffer[256];
@@ -22,7 +24,7 @@ int server_find(int sockfd, char *arg) {
     }
     output[0] = '\0';
     char full_cmd[SIZE];
-    snprintf(full_cmd, sizeof(full_cmd), "fd %s", arg);
+    snprintf(full_cmd, sizeof(full_cmd), "find %s", arg);
     std::string cmd(full_cmd);
     std::string left_cmd, right_cmd;
     server_log('i', cmd.c_str());
@@ -31,7 +33,7 @@ int server_find(int sockfd, char *arg) {
     if (pos != std::string::npos) {
         // '|' found, split the string
         left_cmd = cmd.substr(0, pos);
-        left_cmd += " --type f";
+        left_cmd += " -type f";
         right_cmd = cmd.substr(pos + 1);
 
         left_cmd.erase(left_cmd.find_last_not_of(" \n\r\t") + 1);
@@ -42,7 +44,16 @@ int server_find(int sockfd, char *arg) {
         left_cmd = cmd;
     }
 
-    fp = popen(left_cmd.c_str(), "r");
+    printf("%s\n", left_cmd.c_str());
+
+    if (strstr(arg, "*.txt") != NULL) {
+        char command[] = "find -name \"*.txt\" -type f";
+        fp = popen(command, "r");
+    } else {
+        // Nếu không có, thực hiện hành động khác
+        fp = popen(left_cmd.c_str(), "r");
+    }
+    
     if (fp == NULL) {
         perror("Failed to run command");
         free(output);
@@ -51,7 +62,7 @@ int server_find(int sockfd, char *arg) {
 
     size_t currentSize = SIZE;
     while (fgets(buffer, sizeof(buffer), fp) != NULL) {
-        // Check if we need to expand our output buffer
+        printf("%s\n", buffer);
         if (strlen(output) + strlen(buffer) + 1 > currentSize) {
             currentSize *= 2;
             output = (char *) realloc(output, currentSize);
@@ -81,6 +92,7 @@ int server_find(int sockfd, char *arg) {
 
     send_message(sockfd, create_status_message(MSG_TYPE_OK, NO));
 
+    // tai file
     if (!right_cmd.empty()) {
         send_message(sockfd, create_status_message(MSG_TYPE_PIPE, NO));
         server_pipe_download(sockfd, output);

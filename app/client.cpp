@@ -183,7 +183,10 @@ int main(int argc, char const *argv[]) {
                            "Something went wrong!\nCheck log file for more details!");
                     break;
                 } else if (response.type == MSG_DATA_CMD) {
-                    printf("%s", response.payload);
+
+                    if(strncmp(command.payload, "cat", 3) == 0){
+                        printf("%s\n", response.payload);
+                    }  
                 } else {
                     sprintf(log_msg, "Command run sucessfully");
                     log_message('i', log_msg);
@@ -192,6 +195,7 @@ int main(int argc, char const *argv[]) {
             }
         } else if (command.type == MSG_TYPE_CD) {
             Message response;
+            memset(response.payload, 0, sizeof(response.payload));
             recv_message(sockfd, &response);
             switch (response.type) {
                 case MSG_DATA_CD:
@@ -211,6 +215,7 @@ int main(int argc, char const *argv[]) {
             handle_download(data_sock, sockfd, command.payload);
         } else if (command.type == MSG_TYPE_FIND) {
             Message response;
+            memset(response.payload, 0, sizeof(response.payload));
             std::string files;
             while (1) {
                 recv_message(sockfd, &response);
@@ -362,11 +367,18 @@ int cli_read_command(char *user_input, int size, Message *msg) {
         printf(ANSI_BOLD ANSI_COLOR_BLUE "rm" ANSI_RESET ": xóa tệp hoặc thư mục\n");
 
         printf(ANSI_BOLD ANSI_COLOR_BLUE "pwd" ANSI_RESET ": hiển thị đường dẫn thư mục hiện tại\n");
-        printf(ANSI_BOLD ANSI_COLOR_BLUE "find <pattern>" ANSI_RESET
+        printf(ANSI_BOLD ANSI_COLOR_BLUE "find ten_file" ANSI_RESET
                                          ": tìm kiếm tệp và thư mục trong thư mục hiện tại\n");
+        printf(ANSI_BOLD ANSI_COLOR_BLUE "find -name ten_file" ANSI_RESET
+                                         ": tìm kiem tat ca cac tep co ten ten_file\n");
+        printf(ANSI_BOLD ANSI_COLOR_BLUE "find -name *.txt" ANSI_RESET
+                                         ": tìm kiem tat ca cac file co duoi .txt\n");
         printf(ANSI_BOLD ANSI_COLOR_BLUE
-               "find <pattern> | dl" ANSI_RESET
-               ": tìm kiếm tệp và thư mục trong thư mục hiện tại và tải về\n");
+               "find ten_file | dl" ANSI_RESET
+               ": tìm kiếm tệp trong thư mục hiện tại và tải về\n");
+        printf(ANSI_BOLD ANSI_COLOR_BLUE
+               "find ten_folder | dl" ANSI_RESET
+               ": tìm kiếm tệp trong thư mục hiện tại và tải về\n");
         printf(ANSI_BOLD ANSI_COLOR_BLUE "upload <path>" ANSI_RESET
                                          ": tải tệp hoặc thư mục lên server\n");
         printf(ANSI_BOLD ANSI_COLOR_BLUE "download <path>" ANSI_RESET

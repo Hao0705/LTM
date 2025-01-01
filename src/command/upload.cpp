@@ -45,8 +45,6 @@ void handle_upload(int sock_data, char *dir, int sock_control) {
         return;
     }
 
-    size_t size_file = 0; // Biến lưu tổng dung lượng
-
     if (is_folder(dir)) {
         strcpy(compress_folder, dir);
         char *last_past = basename(compress_folder);

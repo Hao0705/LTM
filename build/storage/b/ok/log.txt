@@ -1,0 +1,1388 @@
+[2024-12-31 10:20:02] [INFO] User a login successfully
+[2024-12-31 10:20:02] [INFO] AES key generated successfully!
+[2024-12-31 10:20:02] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 10:20:02] [INFO] Received public key from server
+[2024-12-31 10:20:02] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0vUqrblrUJwcAzqM+7iD
+lu0o993QHDn1hbpuWBz1Es1XOYeRp91XCPQxMJGwc1RssOcjxQiWpL9kBxBiSrMt
+DKpN7xzxpJW5ue99z12La4KjZ7w/kXoLJs+xV7TXopYFOzKE6ochHtH9qzXtIA+P
+dOGmtAp6Qj7Lr59eKd+xVE9ziEnPuGIDy2Fe7onYkT/lPvK9gA2Oj8mQ02jux6ks
+a165qaTwyqCRjNLoLIOeXwyqtY7Tmc9TpWe/PtDle1bTIdGpfTqmVONvIluJXPKw
+0zWmzTiNVAe3m7Q379qaoRoQofSAZjkCiOcB6Lj0CtABqtxSUdz9Cbf3NBTni/MB
+uQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 10:20:02] [INFO] Send encrypted symmetric key to server
+[2024-12-31 10:20:02] [INFO] LúHQ™°ç-Ç,ˆxX”˜v¶¶¶˜ÉÜ¸k6	îæü.¯§­úéÊypÊâûw|…=X	
+[2024-12-31 10:20:04] [INFO] User a enter command: ls
+[2024-12-31 10:20:06] [INFO] User a enter command: clear
+[2024-12-31 10:20:13] [INFO] User a enter command: up test.txt
+[2024-12-31 10:20:13] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 10:20:13] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 10:20:14] [INFO] User a enter command: ls
+[2024-12-31 10:20:20] [INFO] User a enter command: cat test.txt
+[2024-12-31 10:20:20] [INFO] Command run sucessfully
+[2024-12-31 10:21:29] [INFO] User a enter command: up log.txt
+[2024-12-31 10:21:29] [INFO] Uploading file /home/gaubeo/log.txt to server!
+[2024-12-31 10:21:29] [INFO] File /home/gaubeo/log.txt uploaded
+[2024-12-31 10:21:31] [INFO] User a enter command: ls
+[2024-12-31 10:21:40] [INFO] User a enter command: cat log.txt
+[2024-12-31 10:21:40] [INFO] Command run sucessfully
+[2024-12-31 10:21:56] [INFO] User a enter command: clear
+[2024-12-31 10:22:06] [INFO] User a enter command: ls
+[2024-12-31 10:22:10] [INFO] User a enter command: mkdir folder1
+[2024-12-31 10:22:10] [INFO] Command run sucessfully
+[2024-12-31 10:22:13] [INFO] User a enter command: cd folder1
+[2024-12-31 10:22:13] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/folder1
+[2024-12-31 10:22:14] [INFO] User a enter command: ls
+[2024-12-31 10:22:25] [INFO] User a enter command: up myfile.txt
+[2024-12-31 10:22:25] [INFO] Uploading file /home/gaubeo/myfile.txt to server!
+[2024-12-31 10:22:25] [INFO] File /home/gaubeo/myfile.txt uploaded
+[2024-12-31 10:22:43] [INFO] User a enter command: ls
+[2024-12-31 12:17:15] [INFO] User a login successfully
+[2024-12-31 12:17:15] [INFO] AES key generated successfully!
+[2024-12-31 12:17:15] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:17:16] [INFO] Received public key from server
+[2024-12-31 12:17:16] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWJAx8fCjtAXxLNbUElJ
+00mTISgeKOjJHHwoo1IN08IqSEkDfMC0JMCeRdIu7HPQiG7Umd0loWxIqGiS5zD1
+Hk70x23lBWBM/kp7HBjalCZpzlaG1Do7GKU3PLhCRN0mK+JooH1MS8JtyBAX9lfx
+FqCSnOWGeeFltbNe8zD6MDxhvTzaJ80Og/2Ol/RbPvYSyLa1ApMu69y2IkzZeQ9q
+/5hnFjvvsTJJ1NSMm6DyweoZnSWz59RwBlMRP3vTQfvQ5T399n3FNmssON3oSq8o
+aNpmbYF8Q8EVATCdESDyxozaRybjzAwurkjVvWx2w0xLOER2JBNzGZwZALSU8e1G
+uQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:17:16] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:17:16] [INFO] L"a”3¯®¤º06ƒP=ÎÏZ+·ƒ‡"—ü3^¥¨+\#‰]“HÜó‚¦INZåi¶¶‰G•%˜-²³oÈ¡øPbÌª[âp~¬«ù,Ë½5[À‚è¢øÃµ÷•cœRƒá„è€%Î ½”ì+Í"W•Ã”°aV«Y½?Ëö‘ğÖ\µÊÀÿŞö<¿¼%U…÷3ütâyb!Óº!ëT¶0_oKÄy—’ÉİqÄ§şàìa‘ú¸¢ƒø•är  ¨#=±ÙûS9%®­DÖ"‚R:ò©Ù‹
+[2024-12-31 12:17:17] [INFO] User a enter command: ls
+[2024-12-31 12:17:19] [INFO] User a enter command: clear
+[2024-12-31 12:17:24] [INFO] User a enter command: mkdir build
+[2024-12-31 12:17:24] [INFO] Command run sucessfully
+[2024-12-31 12:17:27] [INFO] User a enter command: up ok
+[2024-12-31 12:17:27] [INFO] Uploading file /home/gaubeo/okok.zip to server!
+[2024-12-31 12:17:27] [INFO] File /home/gaubeo/okok.zip uploaded
+[2024-12-31 12:17:28] [INFO] User a enter command: ls
+[2024-12-31 12:17:34] [INFO] User a enter command: up test.txt
+[2024-12-31 12:17:34] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:17:34] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:17:35] [INFO] User a enter command: ls
+[2024-12-31 12:17:40] [INFO] User a enter command: cat test.txt
+[2024-12-31 12:17:40] [INFO] Command run sucessfully
+[2024-12-31 12:17:42] [INFO] User a enter command: ls
+[2024-12-31 12:18:45] [INFO] User a enter command: exit
+[2024-12-31 12:18:45] [INFO] User a exit
+[2024-12-31 12:19:22] [INFO] User b login successfully
+[2024-12-31 12:19:22] [INFO] AES key generated successfully!
+[2024-12-31 12:19:22] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:19:22] [INFO] Received public key from server
+[2024-12-31 12:19:22] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs8HyyuLSsNw1qgK6TjL2
+W41EffKy7AOTzquWa/KIdcJ9Om4SBm3DexAIOUVumfOSZMizmlbNgrZ5RskKkD94
+OFNmA6IuJAwTGUbeA10/03RgcpDvt1LPH70tpPrkP3Vep37Lu1pGaYNR/EpKat4k
+7VhqygBhTHv3bGpL8WhrN+HLv0C2Mq5FuiACLSGCyqyPBfUGsseZAymmAtCFdYF8
+Abo+Ko/9UhdG8RJkZbs0iD5GDV7CCZ7N1lHDZ14DZI5MZKbwWh+oMBsBmi0TfZSx
+LcvKmzaDZpVzm6TIO46wbQWt/MZHYp2gBoNq7WMt/GXUedxVpLvVA9lBgRCuOJCJ
+5QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:19:22] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:19:22] [INFO] {‡‰¸`0&‰è]„bÕKŞÚw]š-†{^t —ÂÌDÀft4DÀy²Û‚i¹¯‹ïÁeSS|ÁÙÙ¡ø„*°H3
+ln²ùjŒD¡v§Hìæ¦»´7¹İØ_SE§ylö›ŸníoUµvÔQ¦5±œªK:Y?ë6ı|MÆ7`Ÿ3iı©eÊ!O`XŠÅ“ì~¿L843ŸâlQPD:øê—"6OoÍO¢u%)”}ÒÚ`dt½Mû²ŞUËŒú8>Tézßéc&¤Ûfá2 R„F†Èm~È'ÅÒ¾|BxÊ}*üš7®ÑJĞŠæ&<m
+[2024-12-31 12:19:23] [INFO] User b enter command: ls
+[2024-12-31 12:19:25] [INFO] User b enter command: clear
+[2024-12-31 12:19:31] [INFO] User b enter command: mkdir build
+[2024-12-31 12:19:31] [INFO] Command run sucessfully
+[2024-12-31 12:19:32] [INFO] User b enter command: ls
+[2024-12-31 12:19:43] [INFO] User b enter command: mkdir folder1
+[2024-12-31 12:19:43] [INFO] Command run sucessfully
+[2024-12-31 12:19:45] [INFO] User b enter command: ls
+[2024-12-31 12:19:49] [INFO] User b enter command: up test.ttx
+[2024-12-31 12:19:49] [ERROR] /home/gaubeo/test.ttx not found
+[2024-12-31 12:19:54] [INFO] User b enter command: up test.txt
+[2024-12-31 12:19:54] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:19:54] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:20:01] [INFO] User b enter command: cat test.txt
+[2024-12-31 12:20:01] [INFO] Command run sucessfully
+[2024-12-31 12:20:05] [INFO] User b enter command: clear
+[2024-12-31 12:20:08] [INFO] User b enter command: ls
+[2024-12-31 12:22:16] [INFO] User b enter command: up filename.txt
+[2024-12-31 12:22:16] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:22:16] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:22:18] [INFO] User b enter command: ls
+[2024-12-31 12:22:29] [INFO] User b enter command: cd folder1
+[2024-12-31 12:22:29] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/b/folder1
+[2024-12-31 12:22:39] [INFO] User b enter command: up filename.txt
+[2024-12-31 12:22:39] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:22:40] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:22:42] [INFO] User b enter command: ls
+[2024-12-31 12:22:52] [INFO] User a login successfully
+[2024-12-31 12:22:52] [INFO] AES key generated successfully!
+[2024-12-31 12:22:52] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:22:53] [INFO] Received public key from server
+[2024-12-31 12:22:53] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2e9CS9JHX1XtS5VMEImW
+O5A5pJe/U/YeFUHydGhxTCaYmTvVIlbrb7CtXmfSdMmoOkqNGSsB0MiWyVvPczHB
+nObVMM0a3MbbPUukJ7qJi0mb+sLMTE0kTym/pNWAK+laeNeWfKXuy4cwHUXNq8BR
++K0YCIqh7Yhc5tmQdYWKRmO0QmA3vvcIwQJUR3EGqF3vXO7N9TqcpG9LLQ9SJCfe
+0gk6fJK42JsCQPOVKmfOaQQUOWi9+EW4AhvewbY3DT7WEcC97aIyGE3nrwePMBo4
+rIxLLxRzHgm9ByqOCI0Lv4iwGE525r8gzW0a8fONEJRQn+IyeDlgCDs7pqERTD0q
+zwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:22:53] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:22:53] [INFO] *³\·Ú«Ø;Ş˜óê–±&øäd@ÓºÛ"Ò4¼hFKš½Pé—ªãÜşAOÕ†‹&ğ’q:I²|$@}$
+º!©ùp0øgåÖ°ôNDË$ÜË—iïœ6CÂLËæT8•­Ç€È—èo Üÿ¸íKË®ù
+[2024-12-31 12:22:54] [INFO] User a enter command: ls
+[2024-12-31 12:23:01] [INFO] User a enter command: up filename.txt
+[2024-12-31 12:23:01] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:23:02] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:23:05] [INFO] User a enter command: ls
+[2024-12-31 12:23:09] [INFO] User a enter command: cd ok
+[2024-12-31 12:23:09] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/ok
+[2024-12-31 12:23:11] [INFO] User a enter command: ls
+[2024-12-31 12:23:18] [INFO] User a enter command: up filename.txt
+[2024-12-31 12:23:18] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:23:19] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:23:21] [INFO] User a enter command: ls
+[2024-12-31 12:23:50] [INFO] User s login successfully
+[2024-12-31 12:23:50] [INFO] AES key generated successfully!
+[2024-12-31 12:23:50] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:23:50] [INFO] Received public key from server
+[2024-12-31 12:23:50] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwqupcPupK1cWU0MsJ4SB
+6y3NW+5nM3O7fQFW9+18hdeVtCtHO/iE7hcQVwPmxtx6J69SugwDasK9q1HYkc2O
+PUYBUqq2SIqZBLfSIpNbSINpwFov/TMW9pl9kHc2u9Zxcxtx5D2UWNsoz5AP3bXb
+tWzyqbDbqU6I1Et8vmGfXvU0nQ6uyjgCEKrmS/yZF333PNytZZZh1O2YIYSvb5DJ
+UaG5fZh+JsPzjHAdejeJf7WBQwVpG6+1QG1PQj1igNL9QU6sHXQDV0k+CcX/vuA1
+q0u1GMJtALTTXbGltsPCby+uj3C0rssamx3mglO2iFFtrCfj/SJrLh78xyGnsFSF
+uQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:23:50] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:23:50] [INFO] >÷‚›Ö-RÛ\—%)Å®é=+œ´›ÔWõÂä'DpoûD’
+~EvU3N¢‚âÀ:áz‡°Ê]0ÖuåKK’ŒÇÑ&âq³8÷·EÚfD©d»;r‚!]:¶Šš	l¹òq=üË_öcİÇ~3ø[*®íû›ä/ïï]dg¶%ñš)àne5°½”/%êåy4<ÒUšÿ‡æÃ%)|9¬FRÚøšõ‰ÃÏ¤yÄ]%¥||šEÍL
+”ˆËÂ×P§Èmº3¼&LIlÏ°â ÅÉü*^XKyŞâïÚBÆ«¼q‚a=Ó¦úc‹œeTÖŒ’Ño‘®Å6MÈ¶ú
+[2024-12-31 12:23:51] [INFO] User s enter command: ls
+[2024-12-31 12:23:54] [INFO] User s enter command: clear
+[2024-12-31 12:23:59] [INFO] User s enter command: mkdir build
+[2024-12-31 12:23:59] [INFO] Command run sucessfully
+[2024-12-31 12:24:01] [INFO] User s enter command: ls
+[2024-12-31 12:24:06] [INFO] User s enter command: up test.txt
+[2024-12-31 12:24:06] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:24:06] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:24:08] [INFO] User s enter command: ls
+[2024-12-31 12:24:14] [INFO] User s enter command: cat test.txt
+[2024-12-31 12:24:14] [INFO] Command run sucessfully
+[2024-12-31 12:24:24] [INFO] User s enter command: up filename.txt
+[2024-12-31 12:24:24] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:24:25] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:24:26] [INFO] User s enter command: ls
+[2024-12-31 12:24:36] [INFO] User s enter command: mkdir folder
+[2024-12-31 12:24:36] [INFO] Command run sucessfully
+[2024-12-31 12:24:40] [INFO] User s enter command: ls
+[2024-12-31 12:24:55] [INFO] User s enter command: cd folder
+[2024-12-31 12:24:55] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/s/folder
+[2024-12-31 12:24:57] [INFO] User s enter command: ls
+[2024-12-31 12:25:03] [INFO] User s enter command: up test.txt
+[2024-12-31 12:25:03] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:25:03] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:25:05] [INFO] User s enter command: ls
+[2024-12-31 12:25:10] [INFO] User s enter command: cat test.txt
+[2024-12-31 12:25:10] [INFO] Command run sucessfully
+[2024-12-31 12:25:18] [INFO] User s enter command: up filename.txt
+[2024-12-31 12:25:18] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 12:25:19] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 12:25:20] [INFO] User s enter command: ls
+[2024-12-31 12:25:32] [INFO] User s enter command: mkdir folder2
+[2024-12-31 12:25:32] [INFO] Command run sucessfully
+[2024-12-31 12:25:34] [INFO] User s enter command: ls
+[2024-12-31 12:38:31] [INFO] User s enter command: exit
+[2024-12-31 12:38:31] [INFO] User s exit
+[2024-12-31 12:39:00] [INFO] User d login successfully
+[2024-12-31 12:39:00] [INFO] AES key generated successfully!
+[2024-12-31 12:39:00] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:39:00] [INFO] Received public key from server
+[2024-12-31 12:39:00] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7OhKe4G7fCZTyzFhx94
+hD7ZBXZS0LSOxzDqkT+tzaom9IzTw6Y3guim2ypCVfjfiOuRvcb5Z2jqHlKF1zex
+RWnaM56Bz09snv1zuQ710N/yFDQXmzQfVNuXG+eOYaphjBKdG2cNKlkS4saTHnn1
+14E87e9j6rbLFc1NV9UTGSdtLCiA7A4z/5YN8RgOktN7p6WihopGU3aIQLP6wmEP
+mcmRxvQqU5F0+HoFAL8lwR1LDu7uLpx/5tuQU4haQkdhEuQXu++W56n1IUEgnraP
+6UMQOpF55A337DzUIcnjzhhfpO/pKAQKlnsI2gRLlU3rBVNHtx28OJYaOHaSiQjZ
+pQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:39:00] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:39:00] [INFO] :´Yã÷öïJˆ[N(¹3…–<v½]ÓşQÄRå4îFß×–gMTäô ¹÷`˜ïÊ•:‘æÛCï5`Øş|”ı™ O2€?‰ˆuîÁÍvnÅ¤\—m¼Ô»ôj™ø¿bÂ³õùø/ë£ANç_ÒŠ¦“TY)‘ù™¼QUºV‘(®$2ö›S&|‰³ƒz{l^ÂNÒòÿ…é0Ü”ûFmiV–v6#‘Ë÷¹¨İNÇß°À_WHô|2$M„fƒ°L‘…¢OÍ]³ÏKx/Q>7æ„C;I‡”¼±4ÙÅm¿xw–ex‚¬xì²¤„½ƒn[®Ş(ÿ•-?&á,h1ù
+[2024-12-31 12:39:01] [INFO] User d enter command: ls
+[2024-12-31 12:39:06] [INFO] User d enter command: mkdir folder
+[2024-12-31 12:39:06] [INFO] Command run sucessfully
+[2024-12-31 12:41:27] [INFO] User d enter command: exit
+[2024-12-31 12:41:27] [INFO] User d exit
+[2024-12-31 12:41:46] [INFO] User d login successfully
+[2024-12-31 12:41:46] [INFO] AES key generated successfully!
+[2024-12-31 12:41:46] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:41:46] [INFO] Received public key from server
+[2024-12-31 12:41:46] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNgq/YwCuOqiZ9Ts8b0Q
+Nm3Job+88U3BQfjWvVa+dlYHPPUKmX4G81jylN/S3n6prtrZXNxJ3UzVxN0oHC3U
+qOH0WLDJpldYlMvhtzfFY1QUYZp5W57RtWiJyjfCBFhBjdcV+wu77mRz2qwuf/4o
+Gy55mIy3kI3VRS/v3g+XK8ZZgZraRza6IyaELaxyuztt2nhJGCuAqmnqjlEBYSGM
+KtOV6dVv7p8C155NKqcWgy3qCkHLa1OcsR1PEAQpJuOXjlCZB94yQPOcLMdI7AfN
+0imh6wKITbAnS9NBsjpe3/ceDaV02v0N0izMmwSO+cjjsi5ZF04JAy6ewxREFXes
+fQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:41:46] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:41:46] [INFO] işnHÙÃx'fzÍø*¡0E[ÆŞçß?àx¦q={Dtßôi©ôt#¦‡kî™Ñ´‹Å•¥eé(ğ›ØÅá°a˜K2H$QÇDzO7rÒlQ0ˆ¾¯]ÓÇMÆÊ´ø.Pn2^ÂYJ4oÂ=u‚†¬„
+[2024-12-31 12:41:47] [INFO] User d enter command: ls
+[2024-12-31 12:41:53] [INFO] User d enter command: mkdir folder2
+[2024-12-31 12:41:53] [INFO] Command run sucessfully
+[2024-12-31 12:43:42] [INFO] User d enter command: exit
+[2024-12-31 12:43:42] [INFO] User d exit
+[2024-12-31 12:44:08] [INFO] User f login successfully
+[2024-12-31 12:44:08] [INFO] AES key generated successfully!
+[2024-12-31 12:44:08] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:44:09] [INFO] Received public key from server
+[2024-12-31 12:44:09] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnAMB2cbjfNQSeLXK7D/m
+adExqtnMf/1WBJCM01szBS7BGNj5sFeatQ5yy+axQTt2jApm0OQ+n9MinyOduvIO
+94SZ6Zs2x+KLt+RVEje0CDnAqeEVyi3R81ECgAji3toSnoiNX89GROlOI62hDtFy
+WhfUjCjv7x407VnbBqMfB39KfhTCH2AztEOlOz3Zj9titTEG94ytTbRANeOXSMim
+E86mwsU4ebgg5qTwOwUO5iqpxh6KO3/gpQswf9/Pw7e79j836/QbFQuSrsSNSfM6
+EvqC3WlVvRnPHNQXgvZQDgFM3obHQaRYS2PevBfyyb0dxlXxQc3WwqbTCzouJoen
+ZwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:44:09] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:44:09] [INFO] ‰\3Û•~PÈ®ñ(Õşaf)>q‚lx ?GSWù©÷ş´
+[2024-12-31 12:44:10] [INFO] User f enter command: ls
+[2024-12-31 12:44:14] [INFO] User f enter command: mkdir build
+[2024-12-31 12:44:14] [INFO] Command run sucessfully
+[2024-12-31 12:44:15] [INFO] User f enter command: ls
+[2024-12-31 12:44:19] [INFO] User f enter command: cd build
+[2024-12-31 12:44:19] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/f/build
+[2024-12-31 12:44:23] [INFO] User f enter command: ls
+[2024-12-31 12:44:31] [INFO] User f enter command: touch file1.txt
+[2024-12-31 12:44:31] [INFO] Command run sucessfully
+[2024-12-31 12:44:32] [INFO] User f enter command: ls
+[2024-12-31 12:44:53] [INFO] User f enter command: up test.txt
+[2024-12-31 12:44:53] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:44:53] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:44:55] [INFO] User f enter command: ls
+[2024-12-31 12:45:03] [INFO] User f enter command: cat test.txt
+[2024-12-31 12:45:03] [INFO] Command run sucessfully
+[2024-12-31 12:45:12] [INFO] User f enter command: cat test.txt
+[2024-12-31 12:45:12] [INFO] Command run sucessfully
+[2024-12-31 12:51:31] [INFO] User f enter command: exit
+[2024-12-31 12:51:31] [INFO] User f exit
+[2024-12-31 12:51:47] [INFO] User f login successfully
+[2024-12-31 12:51:47] [INFO] AES key generated successfully!
+[2024-12-31 12:51:47] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:51:47] [INFO] Received public key from server
+[2024-12-31 12:51:47] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5InBi4A6Md39zfyXkdrq
+bht8qgXXVw1Hb8sEdpdo+b4POftfiJZRvYPG+SvmMZgjEhBxj4YFmDA0uyV5WtEv
+6/1vSnhyBtJu2Wi/jKyUwxpiTLe+1umDi5bbuJUYSpW5FIJg0LJofsZf+wacTQpr
+EhGcuB9M6J2/M72Op2QFNr6+MdqxiT8ZqVhXa8kktFjtzHsiZ5E4tvXjl6a8Pv8h
+mmqdh/ZomLqd8DxSYRSv70cdnp+QG4E4hSuowhDJYDR7ePmj3rzfSnfHsSt073oY
+MCnYQZhGiSDwpdGJJW76wsyDjylQi3+wmjJ+pfc8lNF3rEdspE4HaWD9H/T89MS8
+nQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:51:47] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:51:47] [INFO] µƒc	.­Ÿ¥UöT0&®õ‰5î…äoCXğèºH­òJ\ñ;)Õ¥ŠZ©ìé>´-(7ªgM+I×‹$*É¿¬ºa&_42ø.¹ª™Â%ì,boymBx=ƒÌT¹´yFãM¢Í¾•çQ…ìd–OÖ[4•bí‡ †ÄuÑÿbßÚÀj®¢çd•}¾,ùÛô²”¨ÄÉÏ²ÚhÊM2ìÆ³ÖÍEw¤~j?W”`òLÒWŠ)ÕKì.°;÷”µqŠª<ªŠıî”ûÒŸÈÓ®*/3×¼f!ïíaİ•`Q§8¼D\P¥òfh-‰ı­½xfùÅ¬3t
+[2024-12-31 12:51:48] [INFO] User f enter command: ls
+[2024-12-31 12:51:55] [INFO] User f enter command: mkdir folder1
+[2024-12-31 12:51:55] [INFO] Command run sucessfully
+[2024-12-31 12:51:56] [INFO] User f enter command: ls
+[2024-12-31 12:52:03] [INFO] User f enter command: cd folder1
+[2024-12-31 12:52:10] [INFO] User f enter command: ls
+[2024-12-31 12:52:16] [INFO] User f enter command: up test.txt
+[2024-12-31 12:52:16] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:52:16] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:52:17] [INFO] User f enter command: ls
+[2024-12-31 12:52:22] [INFO] User f enter command: cat test.txt
+[2024-12-31 12:52:22] [INFO] Command run sucessfully
+[2024-12-31 12:53:29] [INFO] User f enter command: exit
+[2024-12-31 12:53:29] [INFO] User f exit
+[2024-12-31 12:53:47] [INFO] User f login successfully
+[2024-12-31 12:53:47] [INFO] AES key generated successfully!
+[2024-12-31 12:53:47] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:53:47] [INFO] Received public key from server
+[2024-12-31 12:53:47] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNThLCwWOg9NmuqwJwV4
+HClIGs2weBPGpKlGip4iJUSfVDHUXBHltGDtb+bRCbThq3WS1TSXFtViqBcrTDhI
+CDyLOwd0N1kKWhYzI5Bas5dzgFgqPmABQT+9UsXZ7nVTQSBNKzRPfG0rPWbrVHLu
+mcGCx5qZKcF4TTxlT4nTiWNLc9IyFEoDYv5yHiKAokQ93j/jv1/QrjLUaz2OL+by
+LXZYmw4CazafTk5GhFLHhLSsEcrXXjA6nx/lVzPCmjpi54PJTOuXA3LeRD2bcbfd
+k5V66hbRAnQjOvt/NxXPtTLfXDcCUvzTm49Yk1z0LLHLAEBy+Rge7DMHL7xzIr+J
+9wIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:53:47] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:53:47] [INFO] J],Ù@ÔyIV^ågF^˜€QÆ¿1Ñ€0DF3+Òå3-®¤w`‚pnö~èü2fL³	sGp…8q'nĞ‹”A¿ÒIêŞ60Ü×Gkb2OkXñŒ@
+3…
+Æ’÷~šùÆçï+u£YÕw¶£Rä›ƒN1CqÃ·GŠÏ?ÙÎà‡‹à,^¬Ì?
+¼X²ıâ,Õ®ÎˆkDd£şÈäìõt1?ıní_EC#Š¿¾ŸYf¬©¸%gæL«ít0æ¯Àm3ët®9I0±èÖóÉ;ár*Ô3ÿ×»[l'¼_ÈúäCr42*b
+[2024-12-31 12:53:48] [INFO] User f enter command: ls
+[2024-12-31 12:53:51] [INFO] User f enter command: cd folder1
+[2024-12-31 12:53:51] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/f/folder1
+[2024-12-31 12:53:53] [INFO] User f enter command: ls
+[2024-12-31 12:54:06] [INFO] User f enter command: cat test.txt
+[2024-12-31 12:54:07] [INFO] Command run sucessfully
+[2024-12-31 12:54:40] [INFO] User g login successfully
+[2024-12-31 12:54:40] [INFO] AES key generated successfully!
+[2024-12-31 12:54:40] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:54:41] [INFO] Received public key from server
+[2024-12-31 12:54:41] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0/t6daFQxFyUyoiLU3to
+FIjYBHRhsOtRNB+gfJf4oyWmOi29Xpp9gnOrn5vJnvaGObp1nmzURx7wU5wN7bjJ
+x+v1T6WJt5AoSToSVPsYVBWhDQDYifV3CUyY5dGgwxChbmhjtscSMsTHEsOxxqUz
+4Q3Zx3S7ipt0os6utZw1XEjp3UNBNdW+pBkPAfPANBv63Kczm5At4W9VbsXgdFuv
+evMCKQwd4dujO6qBRvk1sndip3IuMHi3Nvittw4hRFbkfCdEE5RNmE1aaHYo3Hfo
+F3xTdKFP09eAFzOpAVAfWlAtgTPCZ1AajHH/FqomoiVUqlhqMSaMS9ewMJKmYlML
+QQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:54:41] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:54:41] [INFO] UsT/!ùKv$Zr9’ ªÎşõùy(û_®=)Vh©	ış?°T¤õ6Ş‘…ê&Ï×»YŞ	©Âm¢õÉ·Ò2ÿ§/0ä‘İ|Òc2€%ˆ!rvFª¤3w1a¬
+KC•¿«.K¬NıXÓ^Q;´±‰ÄÖÊà]±B ©ô`²Ï’4rÓÄÇrÁz%´i|…Pèƒé:äë¼b;ÖGĞİïç4°¬Š·àñ˜¹rªîJZ»âzQm ˜ñ†ŒC™tÒ—ÆiİÒûtó/‰«C³eî'¢;ÂæøŸ(¯ØËz'1±/d1kNÌ¾ˆ}Xª^•š73
+[2024-12-31 12:54:42] [INFO] User g enter command: ls
+[2024-12-31 12:54:46] [INFO] User g enter command: mkdir build
+[2024-12-31 12:54:46] [INFO] Command run sucessfully
+[2024-12-31 12:54:49] [INFO] User g enter command: cd build
+[2024-12-31 12:54:53] [INFO] User g enter command: up test.txt
+[2024-12-31 12:54:53] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:54:53] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:55:12] [INFO] User g enter command: ls
+[2024-12-31 12:55:24] [INFO] User g enter command: cat test.txt
+[2024-12-31 12:55:24] [INFO] Command run sucessfully
+[2024-12-31 12:55:32] [INFO] User g enter command: mkdir build
+[2024-12-31 12:55:32] [INFO] Command run sucessfully
+[2024-12-31 12:55:33] [INFO] User g enter command: ls
+[2024-12-31 12:55:37] [INFO] User g enter command: cd build
+[2024-12-31 12:55:52] [INFO] User g enter command: up test.txt
+[2024-12-31 12:55:52] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:55:52] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:55:54] [INFO] User g enter command: ls
+[2024-12-31 12:56:07] [INFO] User g enter command: exit
+[2024-12-31 12:56:07] [INFO] User g exit
+[2024-12-31 12:56:11] [INFO] User g login successfully
+[2024-12-31 12:56:11] [INFO] AES key generated successfully!
+[2024-12-31 12:56:11] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:56:11] [INFO] Received public key from server
+[2024-12-31 12:56:11] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA90r3FcMdDGDp21c/5vDS
+LYkjoTp30hxlF208xgejXmuNricpHOPzq9CDxsmbsZa3Xavlklcb1H9BYlC/hp6D
+g5YhkfHYmbQfwQw7pu0Ghm9i3XkfQDdxwBUIqZl0QPcboupk1aQgSdwPOkxyq5gs
+OqyVCCwgzv8mGhH5h56jRAeDGlCZe+d8SXWhOsQUW2pIsftyexco4DMI1cTVTGfw
+oK7xRuPoMZiBLXRuUK3BFUAMKDxyZgr1oxk8Iv+AwR/0E6BY43O6ZPrRKWRuYOlM
+s9uwBx52M8gFmHzIXcmuYu3KR9W1EnKr0qirx8GckdU2JtFZqxMlqfWXywoH43Wd
+PwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:56:11] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:56:11] [INFO] T{AŸ=ÊM{0’‰N–ä£›	Õ†|ĞÔÅNë=@F„)8TPc8+íV€&äÒW Te¹[ÙMó=À=-4	<šmÈ	†7+À|•›Ä;ÿ1‰äu“#€ñúĞxÉ¿|h-`H>Z‚HØí‘e­ÿ³dE p‡fE´)òÔ]|‡* O£Ä¹ØC­êñ±s¥^ò¡Kµ{]õ»œä7ê¥©	‚ËnÍ¤˜‹–ÃL’§yúÄBŸô%1s2àæ|õMô“OÿİYĞˆE¶ŠQ>€Öá¸¹x†K‡qmnÛÁœÎ£kbè™ìğcÊeg
+[2024-12-31 12:56:13] [INFO] User g enter command: ls
+[2024-12-31 12:56:19] [INFO] User g enter command: mkdir folder2
+[2024-12-31 12:56:19] [INFO] Command run sucessfully
+[2024-12-31 12:56:21] [INFO] User g enter command: ls
+[2024-12-31 12:56:24] [INFO] User g enter command: cd folder2
+[2024-12-31 12:56:31] [INFO] User g enter command: ls
+[2024-12-31 12:56:42] [INFO] User g enter command: up test.txt
+[2024-12-31 12:56:42] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:56:42] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:56:43] [INFO] User g enter command: ls
+[2024-12-31 12:56:48] [INFO] User g enter command: cat test.txt
+[2024-12-31 12:56:48] [INFO] Command run sucessfully
+[2024-12-31 12:58:08] [INFO] User a login successfully
+[2024-12-31 12:58:08] [INFO] AES key generated successfully!
+[2024-12-31 12:58:08] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:58:09] [INFO] Received public key from server
+[2024-12-31 12:58:09] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqoEDB2pX2QcWQI4whUJu
+YahTqgj98m+AGwZhXGFF3lWdcyr6bZ7OHRYYVYdZ5ZRZ5yManR3VaswPJnVALgEV
+GRigy8evAQHGj9akHwISiK+lSmT5yaQUW4FHSrX8iO6ceA/4Jo5bcXQGQs0IgkWl
+9mRsVkgJO+e/6ehGu80UDlRurenKnC29XIofbq8JLbXIww9A0X/HH9A+Z15/U4NV
+OGtkE8L5iqbSKDoJ9EHuOGqTLVce3H53iSJtzSwYFo+GwkjV/uJYNfvOVSdwFudg
+ND3tPeW3KNygjSonQty4CWmlM9G+BlL576vxGBveC6jBiaI5L0jWQ/i6AZXva6Bp
+UwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:58:09] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:58:09] [INFO] Œ.IÀœl°#e ç{¯ø_ÊgÉ+	X­+kÙ.¼º7÷÷U(sæL×.1ÇüòDÑj™¸­C¬!ôÙGaÌFåm‘4át±V±â£HšñkİWg¾9ã¨:5íïÍ[[!¡Ò î}ZpF¾‘,4neßl}cdƒ>ÃUg¡¼ù=xÑ1Ò ¹›µ'¹Ï›‘U‰Õà6‡Àº`Ë j
+:Yiônú`‘?TêÑÂLw‡Îsü#àe¤¿çªQŸ]"¢¯€H—j8ü!§7Ñ…œ'—İ¢åD Ø8]jÜ]ıâ”
+à<j|ày¥ş™^´—!(3J¬n
+[2024-12-31 12:58:10] [INFO] User a enter command: ls
+[2024-12-31 12:58:14] [INFO] User a enter command: mkdir folder1
+[2024-12-31 12:58:14] [INFO] Command run sucessfully
+[2024-12-31 12:58:17] [INFO] User a enter command: cd folder1
+[2024-12-31 12:58:19] [INFO] User a enter command: ls
+[2024-12-31 12:58:24] [INFO] User a enter command: up test.txt
+[2024-12-31 12:58:24] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:58:24] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:58:31] [INFO] User a enter command: cat test.txt
+[2024-12-31 12:58:31] [INFO] Command run sucessfully
+[2024-12-31 12:58:56] [INFO] User a enter command: exit
+[2024-12-31 12:58:56] [INFO] User a exit
+[2024-12-31 12:59:13] [INFO] User a login successfully
+[2024-12-31 12:59:13] [INFO] AES key generated successfully!
+[2024-12-31 12:59:13] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 12:59:13] [INFO] Received public key from server
+[2024-12-31 12:59:13] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvKMBHeVGAgtIjpZhoPRq
+2rONE7dIPtnZiSTcQGCiXhtcbt5SMmGvNknqwQZy8adMba3SBqqaE8EdzRf+tFj/
+Z/CMYZHgkHhNdcWAMhXaE/fCg4oJ1GUoFQ3G/rfP7vVPiRQiCkmJhxFrZetXR65G
+Mf993ZnwY6YWYKlNr5P44nK0ibXR3SBKEY18qn7v3VuyAOmczZ09ULUVMkaFItYC
+DL9FQgDvQ1uIERW4wyEgdubf9S9B0Vi+ofjE4ubGgxbeDZcwQJ6DNSN05DxOXSLB
+xIlG6oVUjcibOfjmGaR8YXuvRz1JMp9wh+MFa2LXoe+3vl4W1S3Wk5pVBdAy+B2r
+VwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 12:59:13] [INFO] Send encrypted symmetric key to server
+[2024-12-31 12:59:13] [INFO] 
+_lfÈÑYÁî[aª²Û¢=
+`è[©*î’å(;õ]D6ÄÔòyÃõëÏl ş;_ÕŒĞ	t÷1B6OĞ±a|?5¯X˜¶ç0†#üŒ¸9è°ï" ­–Nlèà¾},—t9b¦o/Û_lÔ‰şå±5ÃKÊ±“¡åM AÂQç)Å4>Rvy³gbàrJ ŒRkÿÅÆ¤Ûû]Â9XdöLv*SÉ@1ĞÄ¿Ù{Fp*Å÷w0€¿ÂQÙ²¹mÖÕJ=B.ÛÀûšå‰·HB²„=EYƒ›Ó	y7[¯vÏÆÏıôŠb5»‰Z.¾¬f8^«„Í
+[2024-12-31 12:59:14] [INFO] User a enter command: ls
+[2024-12-31 12:59:23] [INFO] User a enter command: up test.txt
+[2024-12-31 12:59:23] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 12:59:23] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 12:59:24] [INFO] User a enter command: ls
+[2024-12-31 12:59:31] [INFO] User a enter command: cat test.txt
+[2024-12-31 12:59:32] [INFO] Command run sucessfully
+[2024-12-31 12:59:50] [INFO] User a enter command: mkdir build
+[2024-12-31 12:59:50] [INFO] Command run sucessfully
+[2024-12-31 12:59:52] [INFO] User a enter command: ls
+[2024-12-31 12:59:55] [INFO] User a enter command: cd build
+[2024-12-31 13:01:04] [INFO] User a enter command: exit
+[2024-12-31 13:01:04] [INFO] User a exit
+[2024-12-31 13:01:19] [INFO] User a login successfully
+[2024-12-31 13:01:19] [INFO] AES key generated successfully!
+[2024-12-31 13:01:19] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 13:01:19] [INFO] Received public key from server
+[2024-12-31 13:01:19] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn0NmkFOjVksMaG0YF3ML
+IKws5wkRkDO49PTY9E6uIR5hsmYuwTjU1sCHs8FLbYeR5WHx3nJ5QLkm0AueBwCi
+VS70/+NFDoYIPyZCuA5IxA1TKf8ruMXDk3ZpDeL/L7Jnk+fySAi77sCbWphPz1bc
+1qJNxo/BPqf9Nolqqd8/inVLn7/mLD0ycv5FItckCkPx1+1zrDCeaOZyysdPqDT3
+LSsuVMUkn5Fjzpi4yudJ9ZnBR8boUZbQ/i/UrAeLx5/NzdEoE1zpf+V9oGHIAHM+
+e17GF6Evi0Jd9pC3uEyEH9KZ7rw3JpP2+5LlWazzCc0Ic9yG4f9WINSmObjzvCEN
+dQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 13:01:19] [INFO] Send encrypted symmetric key to server
+[2024-12-31 13:01:19] [INFO] ‡Êå\LîhÏ2p
+©Ü@ÔÍ.s#EÁš‘Q+´,Nq‡KUA„š¢B¼÷íñ,b;®¾í¨~™ÑûL¿ÇtRËö­ë¶à‡•:àh$yô=õÖÆñƒüèİó:@6ÎõÛwÒÂêqìO‡×Tá1Å|x¥íGNo7_ÏsŞçÜ“SŒø]U"¸Íéœ¹ÿ†ŞŸX«î_À_ƒíÕTúã³†D³9Â[G¸^³½f…§0f6H'	
+[2024-12-31 13:01:20] [INFO] User a enter command: ls
+[2024-12-31 13:01:25] [INFO] User a enter command: mkdir folder2
+[2024-12-31 13:01:25] [INFO] Command run sucessfully
+[2024-12-31 13:01:26] [INFO] User a enter command: ls
+[2024-12-31 13:01:31] [INFO] User a enter command: cd folder2
+[2024-12-31 13:01:33] [INFO] User a enter command: ls
+[2024-12-31 13:01:39] [INFO] User a enter command: up test.txt
+[2024-12-31 13:01:39] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 13:01:39] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 13:01:40] [INFO] User a enter command: ls
+[2024-12-31 13:02:15] [INFO] User a enter command: cat test.txt
+[2024-12-31 13:02:15] [INFO] Command run sucessfully
+[2024-12-31 13:03:56] [INFO] User s login successfully
+[2024-12-31 13:03:56] [INFO] AES key generated successfully!
+[2024-12-31 13:03:56] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 13:03:57] [INFO] Received public key from server
+[2024-12-31 13:03:57] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmy96b46dkMpGs/iBpu/P
+6Az51B9VK12T4WCQZy9f+X0BnVJC20BgV6osAiXgcftvC1S8SvPgCrprd6ij5357
+ycTmA+UBJs3YLSDca2Bke21wJXJszd/pNPrihcaBbZd+053GQ5L+RW9it43ZCzvu
+96O3rKZDD4xPCsVFkDNrvo0fJg2iyhN1ado/qdcEI+m2OKjLZk4F2s7UCGReqL+Q
+yVGQurnuKZKQQOrH0fGaeHtGlWgABq2buHjYBuQndqJl9COrRtEFGbz9CUQScdn4
+oCqtOKnRrTokqVYHdLKUQpdb8xlVUC6HIVfGIxQykPUwdww8r55EaC0d+V89FvuE
+OwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 13:03:57] [INFO] Send encrypted symmetric key to server
+[2024-12-31 13:03:57] [INFO] H²ú¤õäÎcîõÙSQF“hú‹ã¾”°¾E®–¡æè|3§WeUÃ1¾f<Dh³%ôUTuÙ}[Çº,B8Ì'•v®Ã®í’ïeø§V«]7ÆÑ‘Œ£À6lfïËì)”cª;ÔY#üŞŞEìfrŒ~ÿlîuº•^j´ô‰Ê»nßò¿´,º¦ˆ2>¡%ÜrlUŠö”•‹Ïg©ÿPïréZv\óq³à[ã!¶
+[2024-12-31 13:03:58] [INFO] User s enter command: ls
+[2024-12-31 13:04:09] [INFO] User s enter command: mkdir build
+[2024-12-31 13:04:09] [INFO] Command run sucessfully
+[2024-12-31 13:04:10] [INFO] User s enter command: ls
+[2024-12-31 13:04:13] [INFO] User s enter command: cd build
+[2024-12-31 13:04:34] [INFO] User s enter command: up test.txt
+[2024-12-31 13:04:34] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 13:04:34] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 13:04:36] [INFO] User s enter command: ls
+[2024-12-31 13:04:42] [INFO] User s enter command: cat test.txt
+[2024-12-31 13:04:42] [INFO] Command run sucessfully
+[2024-12-31 13:05:38] [INFO] User z login successfully
+[2024-12-31 13:05:38] [INFO] AES key generated successfully!
+[2024-12-31 13:05:38] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 13:05:38] [INFO] Received public key from server
+[2024-12-31 13:05:38] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu6BIObZGAf6G748NGRmm
+8vnqwDD9r2A8lQgK1MJWsPtVQtoDKsVeMOoyMSRPVsDPDfx1wPQdki8d/g68RclX
+s/6JijuB0csC6UAsA8yT5jTxb7vdcS/G9IEapeCG5skT3Fq/GXiVmYY0xRAQoZ12
+TzyhtjgqqH18mVNCnFVQugSM2GRYyECypCrHBE7g+WDqbbGKdsRvpEP/RNaQ24DG
+7KNEwdCjcVifltmLt7wxvkqg1i0Lv1ddXRRINAepNWAudfs1eYOwhMfDr529/JXu
+EsYp6IhVMwtPoulGDjVZxsnuoNFOqQPJfDqEya71zfzP5jajMvElwewQiA9J6TT8
+CQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 13:05:38] [INFO] Send encrypted symmetric key to server
+[2024-12-31 13:05:38] [INFO] F09yª9µù=À6o©N‚&´á>Q[4Œ
+[2024-12-31 13:05:39] [INFO] User z enter command: ls
+[2024-12-31 13:05:43] [INFO] User z enter command: mkdir build
+[2024-12-31 13:05:43] [INFO] Command run sucessfully
+[2024-12-31 13:05:46] [INFO] User z enter command: cd build
+[2024-12-31 13:05:46] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/z/build
+[2024-12-31 13:08:16] [INFO] User z enter command: exit
+[2024-12-31 13:08:16] [INFO] User z exit
+[2024-12-31 13:08:40] [INFO] User x login successfully
+[2024-12-31 13:08:40] [INFO] AES key generated successfully!
+[2024-12-31 13:08:40] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 13:08:41] [INFO] Received public key from server
+[2024-12-31 13:08:41] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6yVGIZj7xx9+5wlmUWVa
+N+aiuoU8jceCY4pqDhZfJjCbzQu13IamOyCvcX++9f2rVTZLEx1rQkYhLoRa2FPM
+UcYgFIWZ9Tn5jj827mBA63DhtmTAh5VWltnMlTTGMJPY6lUnw868Jr5K8dY5R6Z7
+m8cKOxvTW4D8mkOWFt8LANQz5w8z/2l62F/Gptfxs6Xa23cb2TSLG8eZBNAV4gvr
+r0rKPv/+0a/xgmctFw/cuH1lQMoBcge46lDQ3gO1Wx5Tw5tVgS/BMHDKoZle5clh
+S2miNr3L0TBp0/qlKTS2ddjmggV2KNywpiNy98mCkXjXe9j5YOMlU0rwPhwTqgIM
+rQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 13:08:41] [INFO] Send encrypted symmetric key to server
+[2024-12-31 13:08:41] [INFO] §ù÷ÆTÚÙù®3Å2ª»äXyeˆâ¼wòÑ»¦­çnÍCuÊ­ˆ†<\$E%9¬<FÕş0G®Ó%WXÌêL<ŞW$€Ø>r‰Ë*¢™^€eıÈ…3¿Î‚£‹ïÿIÍ¡S¬ƒ:öTˆøiEª™½ôW˜R<½ËÈœ/±zÙ¥‘–D,A²"O
+[2024-12-31 13:08:41] [INFO] User x enter command: ls
+[2024-12-31 13:08:47] [INFO] User x enter command: mkdir build
+[2024-12-31 13:08:47] [INFO] Command run sucessfully
+[2024-12-31 13:08:48] [INFO] User x enter command: ls
+[2024-12-31 13:08:54] [INFO] User x enter command: cd build
+[2024-12-31 13:08:54] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x/build
+[2024-12-31 13:09:06] [INFO] User x enter command: up test.txt
+[2024-12-31 13:09:06] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 13:09:06] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 13:09:08] [INFO] User x enter command: ls
+[2024-12-31 13:09:13] [INFO] User x enter command: cat test.txt
+[2024-12-31 13:09:13] [INFO] Command run sucessfully
+[2024-12-31 13:23:58] [INFO] User x enter command: ls
+[2024-12-31 13:24:00] [INFO] User x enter command: cd ..
+[2024-12-31 13:24:00] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x
+[2024-12-31 13:24:02] [INFO] User x enter command: ls
+[2024-12-31 13:24:11] [INFO] User x enter command: mkdir folder2
+[2024-12-31 13:24:11] [INFO] Command run sucessfully
+[2024-12-31 13:24:12] [INFO] User x enter command: ls
+[2024-12-31 13:24:16] [INFO] User x enter command: cd folder2
+[2024-12-31 13:24:16] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x/folder2
+[2024-12-31 13:24:29] [INFO] User x enter command: up filename.txt
+[2024-12-31 13:24:29] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 13:24:30] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 13:24:33] [INFO] User x enter command: ls
+[2024-12-31 13:58:31] [INFO] User x login successfully
+[2024-12-31 13:58:31] [INFO] AES key generated successfully!
+[2024-12-31 13:58:31] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 13:58:32] [INFO] Received public key from server
+[2024-12-31 13:58:32] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwKzbmfq5yGRkYMjIBXs7
+ncLrzlvc6C/clgTvTKSnEueIidJHmS4z8i0y0BeYTzrl0A3Gk2uNfQ6DZ1TKYqfh
+qWmL+6+18wqyLJ9NoTc60x5Vdb48jfYLQR/2rULUiE2aNXzkoweodR3izSDfI2xo
+AU+IEmiwQ3e+nxcU3LK+aBA2GyXP9u+a7LWFSVVpBY9ysy37YIIPwsSrMcaM2kYm
+8nfNVviMmcbaCZPHySEb+5UdxRYe7BmznCtMgjAreYE4nJLOlvktrQTr4t+p173E
+v9wxCN7DE99HUUJDQucBn/ds0aqGpol4GhY80/Ng1aYpYXpYaUKv2E8TXSfWxM2a
+TwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 13:58:32] [INFO] Send encrypted symmetric key to server
+[2024-12-31 13:58:32] [INFO] &ş„E±°äOÔR_¼wõ#Ô²Åvç/ğ%¸ñƒ÷fq?6+OØ^W}ÅşšèÈ¨˜L7C½ŸªºÍÏ³&D.ø.áµbà;mÀ?×ù);IÖ	G›l»F~DÌd»¿JÌë\]RÊÍ–ßZ÷0½DŞAö0Tq§äT"¥D‘hxË…9o\¬ÄéM4(÷X!úƒĞ[È¬Ÿİ­QÆÆï´ƒD€¨p
+Û/x~íÅÁá÷tˆè‘¯ıh¸
+[2024-12-31 13:58:33] [INFO] User x enter command: ls
+[2024-12-31 13:58:36] [INFO] User x enter command: cd folder2
+[2024-12-31 13:58:36] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x/folder2
+[2024-12-31 13:58:37] [INFO] User x enter command: ls
+[2024-12-31 13:58:50] [INFO] User x enter command: up log.txt
+[2024-12-31 13:58:50] [INFO] Uploading file /home/gaubeo/log.txt to server!
+[2024-12-31 13:58:50] [INFO] File /home/gaubeo/log.txt uploaded
+[2024-12-31 13:58:51] [INFO] User x enter command: ls
+[2024-12-31 13:58:55] [INFO] User x enter command: cat log.txt
+[2024-12-31 13:58:56] [INFO] Command run sucessfully
+[2024-12-31 13:59:48] [INFO] User x enter command: ls
+[2024-12-31 13:59:50] [INFO] User x enter command: cd ..
+[2024-12-31 13:59:50] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x
+[2024-12-31 13:59:52] [INFO] User x enter command: ls
+[2024-12-31 14:26:24] [INFO] User x enter command: exit
+[2024-12-31 14:26:24] [INFO] User x exit
+[2024-12-31 14:29:51] [INFO] User a login successfully
+[2024-12-31 14:29:51] [INFO] AES key generated successfully!
+[2024-12-31 14:29:51] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:29:51] [INFO] Received public key from server
+[2024-12-31 14:29:51] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwpmaAuoGuAUCQoTVFQp2
+4dRVZu0rHXI+XhT66QxOk5GgRmZpVEAzwXeJFUgOvpdr3orgCCcbVmm3OhBDtVV+
+0+7uQjX9r/T8eYokb9Dsx4rrykXG+NtO+Fvoam/fSlfSlujyhps3XV/p74Ec+Jwh
+gShbgJIO8HsPyjy9tx4jVEvVivC8OtPg+tApqdPSMwbP4kMAGA8lh0NO9nKbLUlN
+s4vhKkEpXPtUTBdBFgaLIXWpFm6oJYMex2JI4TBM3BfrG+lT9ZrhAfuwYe49IGu7
+aYkgzlI056NhLHE5MKsG0FwMpTELv293MKpEeUFH98oZT88d/67AJquGrYqekHpT
+6QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:29:51] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:29:51] [INFO] |YÃGÓoyv]º¥Ÿ{Aµ›ï'C¢¦gÁÕwó¹ÇƒñœwKÄıfs–#`…2òWG9&tëJ>;”eÆ>}}]B?­À¹ãœ\˜ú?êÌÌìê@#sÄ•Ïşì‰#2Ãà‰t5y\ÂUİ€<‹3osäzŸƒk“X„øªd)
+[2024-12-31 14:29:52] [INFO] User a enter command: ls
+[2024-12-31 14:29:57] [INFO] User a enter command: mkdir folder1
+[2024-12-31 14:29:57] [INFO] Command run sucessfully
+[2024-12-31 14:29:58] [INFO] User a enter command: ls
+[2024-12-31 14:30:01] [INFO] User a enter command: cd folder1
+[2024-12-31 14:30:01] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/folder1
+[2024-12-31 14:30:08] [INFO] User a enter command: up ok2
+[2024-12-31 14:30:09] [INFO] Uploading file /home/gaubeo/ok2ok2.zip to server!
+[2024-12-31 14:30:09] [INFO] File /home/gaubeo/ok2ok2.zip uploaded
+[2024-12-31 14:30:11] [INFO] User a enter command: ls
+[2024-12-31 14:30:26] [INFO] User s login successfully
+[2024-12-31 14:30:26] [INFO] AES key generated successfully!
+[2024-12-31 14:30:26] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:30:26] [INFO] Received public key from server
+[2024-12-31 14:30:26] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsYeXZbYhTZXcxt392BrG
+Vr4I8Pxw8peEfx5VG85JTAdv+prp+SFWTW9qPsMjjb27qQXwSyfvZz/6iLx9rpLq
+opGdw7ZTutPKV0cOrH8lXWVrQKJsgnT+3qSE9itWNsANG6dVOb2g3jmQo3eXq1JJ
+byVfzDBsQYV4qwTkyyddBAU8S1oHF2EpUGEBnFK4cHI1W3h+Net5LyUCerHnOMvq
+JnBYaxV3PvTOHWnifiFWhiezZ8z93CMzkVJzon14Lc0qpEmLZwSRd3G1umROTDi8
+yW+Mrr1lkDtQksFJNODnz4jZ2dewRa/CiG78jJIBazmxXNwNjNjnLKO1VOKoeOI9
+3QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:30:26] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:30:26] [INFO] zXXÎÄoÙ	àNH‹¼G²;ì÷ëÆ²'­Š’¾Ç1#…jÚ¢D´úBG8]ŠV
+Šz¼Å*Ãºvº/¦½Fâû4dÖ=W(aéıo8ij·O1[2êÑj½YK:ìó€Ø=Ê¬"»1!–0£yJÏ¤Î+æ|¶Û¼ÕP®œÒQ:¡º¾{ç¾•ı˜cGgW öÚŠªÈgC¥È!2±4åAô£&i³»½"–÷tø©wòaÑk
+[2024-12-31 14:30:28] [INFO] User s enter command: ls
+[2024-12-31 14:30:30] [INFO] User s enter command: clear
+[2024-12-31 14:30:33] [INFO] User s enter command: mkdir folder1
+[2024-12-31 14:30:34] [INFO] Command run sucessfully
+[2024-12-31 14:30:35] [INFO] User s enter command: ls
+[2024-12-31 14:30:40] [INFO] User s enter command: up ok
+[2024-12-31 14:30:40] [INFO] Uploading file /home/gaubeo/okok.zip to server!
+[2024-12-31 14:30:40] [INFO] File /home/gaubeo/okok.zip uploaded
+[2024-12-31 14:30:42] [INFO] User s enter command: ls
+[2024-12-31 14:30:46] [INFO] User s enter command: cd ok
+[2024-12-31 14:30:46] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/s/ok
+[2024-12-31 14:30:47] [INFO] User s enter command: ls
+[2024-12-31 14:30:53] [INFO] User s enter command: cat text.txt
+[2024-12-31 14:30:53] [INFO] Command run sucessfully
+[2024-12-31 14:30:56] [INFO] User s enter command: clear
+[2024-12-31 14:30:58] [INFO] User s enter command: ls
+[2024-12-31 14:31:04] [INFO] User s enter command: cd ..
+[2024-12-31 14:31:04] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/s
+[2024-12-31 14:31:05] [INFO] User s enter command: ls
+[2024-12-31 14:31:08] [INFO] User s enter command: up ok2
+[2024-12-31 14:31:09] [INFO] Uploading file /home/gaubeo/ok2ok2.zip to server!
+[2024-12-31 14:31:09] [INFO] File /home/gaubeo/ok2ok2.zip uploaded
+[2024-12-31 14:31:13] [INFO] User s enter command: cd ok
+[2024-12-31 14:31:27] [INFO] User d login successfully
+[2024-12-31 14:31:27] [INFO] AES key generated successfully!
+[2024-12-31 14:31:27] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:31:28] [INFO] Received public key from server
+[2024-12-31 14:31:28] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoG/LB9lUfJGfQyOrBgxG
+pEoHCH67bRkR16/Jjx/oFQGrPIdFxuiICN1Xc45k3lX10tqqDp4ldo7UytAVb6vq
+lfYzq9idStMGTDeCJKPoYtURUEz3UHNDJG0cGlHpROCqzyto7ozjxskLTOaJW1Pp
+Rj6vDWmMVKTDqj7Zbnyj5SE3YqI8e+QDsyC6Ydauic70PO+WdHytxoDwUbL5Yw6S
+9aPvLnZlpHtdoOwADP2ZCEvTKljDU3ZQ5KkRC9vOYc2lGnF1myHKIYmT5dpTrdCi
+RQBMFqvQDxlgtWzFvX1bq34jwUkYtARWZxjPbO7oUHMEUpFaK53zNAZr8d0bMQg1
+VQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:31:28] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:31:28] [INFO] -€zŠÍ‹·;A)ælêì`úÂ2»FaÉMµ)oNQcò5u·Yêæ®»u¿.±ƒ×vØ§ÊæÃi²ÿ‘>2Şd"Ê§'Òf±Cİ,èÓ
+[2024-12-31 14:31:30] [INFO] User d enter command: up ok2
+[2024-12-31 14:31:31] [INFO] Uploading file /home/gaubeo/ok2ok2.zip to server!
+[2024-12-31 14:31:31] [INFO] File /home/gaubeo/ok2ok2.zip uploaded
+[2024-12-31 14:31:32] [INFO] User d enter command: ls
+[2024-12-31 14:31:44] [INFO] User d enter command: up test.txt
+[2024-12-31 14:31:44] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 14:31:44] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 14:31:45] [INFO] User d enter command: ls
+[2024-12-31 14:31:51] [INFO] User d enter command: cat test.txt
+[2024-12-31 14:31:51] [INFO] Command run sucessfully
+[2024-12-31 14:32:01] [INFO] User d enter command: cat test.txt
+[2024-12-31 14:32:01] [INFO] Command run sucessfully
+[2024-12-31 14:32:05] [INFO] User d enter command: ls
+[2024-12-31 14:32:09] [INFO] User d enter command: cd ok2
+[2024-12-31 14:32:09] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/d/ok2
+[2024-12-31 14:32:11] [INFO] User d enter command: cd ..
+[2024-12-31 14:32:11] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/d
+[2024-12-31 14:32:24] [INFO] User d enter command: cat test.txt
+[2024-12-31 14:32:24] [INFO] Command run sucessfully
+[2024-12-31 14:32:32] [INFO] User d enter command: cat test.txt
+[2024-12-31 14:32:32] [INFO] Command run sucessfully
+[2024-12-31 14:32:39] [INFO] User d enter command: cat test.txt
+[2024-12-31 14:32:39] [INFO] Command run sucessfully
+[2024-12-31 14:34:34] [INFO] User d enter command: exit
+[2024-12-31 14:34:35] [INFO] User d exit
+[2024-12-31 14:34:43] [INFO] User f login successfully
+[2024-12-31 14:34:43] [INFO] AES key generated successfully!
+[2024-12-31 14:34:43] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:34:43] [INFO] Received public key from server
+[2024-12-31 14:34:43] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjicAzFoBgYaCp20g1i0x
+PkU+dbZ/MeudfBtVis6KH4BBUTVJhQkpt4UckTr1BiQiVzNiPCwSsuvaNHk6K8OQ
+OsjqFrxZmx3pmd4uWSdp1H1NMDoyRJHGJOt8UnWk4wDY38WOjo5wl7Ee73tTQS4K
+V3O3xa23BmjyTEaXjcWGQpVaHNtUcr72/Y5HqzfcIUagZkYxDrSsQjOlPWV/UvAJ
+6+ncj5q1uLo+f258woF5K6AsWGYe2q2x7FSDQFgItIomOCiTZ1eBxQ4StkAeoP8Z
+psZIpXSQUaJOecZFrJdJwBS418fbcyBCVCSTXtJR+ncPBK8gMuW2MwL3YtjyQyAu
+qwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:34:43] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:34:43] [INFO] .Êâ$ÓnœßëöæÍt…nâğòHÆO)A$nŸÆY$(”†¶.J·F{°~òïIféÃï‹‰›pÀú•jÏ&9~Û¨“{Ù§”U†x]
+[2024-12-31 14:34:45] [INFO] User f enter command: ls
+[2024-12-31 14:34:50] [INFO] User f enter command: mkdir folder1
+[2024-12-31 14:34:50] [INFO] Command run sucessfully
+[2024-12-31 14:34:51] [INFO] User f enter command: ls
+[2024-12-31 14:34:55] [INFO] User f enter command: cd folder1
+[2024-12-31 14:34:55] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/f/folder1
+[2024-12-31 14:35:02] [INFO] User f enter command: touch file1.txt
+[2024-12-31 14:35:02] [INFO] Command run sucessfully
+[2024-12-31 14:35:03] [INFO] User f enter command: ls
+[2024-12-31 14:35:06] [INFO] User f enter command: cd ..
+[2024-12-31 14:35:06] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/f
+[2024-12-31 14:35:13] [INFO] User f enter command: rm -rf folder1
+[2024-12-31 14:35:13] [INFO] Command run sucessfully
+[2024-12-31 14:35:14] [INFO] User f enter command: ls
+[2024-12-31 14:35:22] [INFO] User f enter command: touch file.txt
+[2024-12-31 14:35:22] [INFO] Command run sucessfully
+[2024-12-31 14:35:23] [INFO] User f enter command: ls
+[2024-12-31 14:35:28] [INFO] User f enter command: rm file.txt
+[2024-12-31 14:35:28] [INFO] Command run sucessfully
+[2024-12-31 14:35:29] [INFO] User f enter command: ls
+[2024-12-31 14:35:57] [INFO] User f enter command: up test.txt
+[2024-12-31 14:35:57] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 14:35:57] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 14:35:58] [INFO] User f enter command: ls
+[2024-12-31 14:36:03] [INFO] User f enter command: cat test.txt
+[2024-12-31 14:36:03] [INFO] Command run sucessfully
+[2024-12-31 14:36:12] [INFO] User f enter command: cat test.txt
+[2024-12-31 14:36:12] [INFO] Command run sucessfully
+[2024-12-31 14:36:13] [INFO] User f enter command: ls
+[2024-12-31 14:36:20] [INFO] User f enter command: up ok
+[2024-12-31 14:36:20] [INFO] Uploading file /home/gaubeo/okok.zip to server!
+[2024-12-31 14:36:20] [INFO] File /home/gaubeo/okok.zip uploaded
+[2024-12-31 14:36:21] [INFO] User f enter command: ls
+[2024-12-31 14:36:23] [INFO] User f enter command: cd ok
+[2024-12-31 14:36:23] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/f/ok
+[2024-12-31 14:36:25] [INFO] User f enter command: ls
+[2024-12-31 14:36:30] [INFO] User f enter command: cat text.txt
+[2024-12-31 14:36:30] [INFO] Command run sucessfully
+[2024-12-31 14:36:33] [INFO] User f enter command: clear
+[2024-12-31 14:37:24] [INFO] User f enter command: up filename.txt
+[2024-12-31 14:37:24] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 14:37:25] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 14:37:32] [INFO] User f enter command: mkdir folder1
+[2024-12-31 14:37:50] [INFO] User h login successfully
+[2024-12-31 14:37:50] [INFO] AES key generated successfully!
+[2024-12-31 14:37:50] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:37:50] [INFO] Received public key from server
+[2024-12-31 14:37:50] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2B2CdaXxvQlLWoTN1PsO
+ju/EfQcAUhQeiifRw2SwmiyFHMg903m0TO5gd9nY+L+xdLF5eqTo8IVfEboaJs68
+60mvHa6PLrlKKtthf3P7nHP6L2oEHCJkaMoONSy3bMd/sbHcv754vAfEKRhdMgjS
+58FNpPs7kFA+BlXhfInVPKb24d4T2T5itc4/62ptbOUDW3z3aH60sW+FNBw3LzRM
+/9Jy0nQbw0Y0d8Gzy4P5OWQf53zdDjTp9VbAuOgAhdP7kcou0K007eHELq8m2ifR
++fiq5THf7tcYCBcWGkBuIQdd3ymj3/1FkUWgWax4nUjm+EghKfCZckBaBG/ISB/Z
+YQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:37:50] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:37:50] [INFO] ÓO]ùei´€ÊzZh^!;µ…KæV•Ğ\ÜöıAî²\JÏàlŸB¡1Ñ£1w&lˆ‚ãzú½»=‘vM†*ÿéóL4iº¼ñ´·¹k‡›ãz§ê¯B½ç§Ï>¨ßÁK”ôûmô{ø¨“ì4çæìB^¯Úö‘ö"”„×O°Ö­qJ=z)1YÙÚUö¸Ë»*ücƒöbIN2ÆeqaBóGS#ëµáhc•¨%Âküú8+…Õ½fèIépù}}ğ½…VÕ9p…SÈÌ;í±lqmß­l´¶°”
+[2024-12-31 14:38:00] [INFO] User h enter command: up filename.txt
+[2024-12-31 14:38:00] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 14:38:00] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 14:38:01] [INFO] User h enter command: ls
+[2024-12-31 14:38:13] [INFO] User h enter command: up test.txt
+[2024-12-31 14:38:13] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 14:38:13] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 14:38:14] [INFO] User h enter command: ls
+[2024-12-31 14:38:18] [INFO] User h enter command: cat test.txt
+[2024-12-31 14:38:18] [INFO] Command run sucessfully
+[2024-12-31 14:41:11] [INFO] User h enter command: exit
+[2024-12-31 14:41:11] [INFO] User h exit
+[2024-12-31 14:41:28] [INFO] User j login successfully
+[2024-12-31 14:41:28] [INFO] AES key generated successfully!
+[2024-12-31 14:41:28] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 14:41:29] [INFO] Received public key from server
+[2024-12-31 14:41:29] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAttLTB/u47q32P/ce+1Rn
+HyZKtUor3OdNdix8U03kbXHDnDXVlHXtqB47GJJU9EvHCuKyVxxfpQleWsqzOVLC
+4dhcoAf2nWmSGOy/HrlJWpdUFNjte8n1NKt6wDHltP9q23Hmgl+b8FABb3RWcN7s
+GPcP1W+KSG6EG/uD+mPiik8xaA9ilqhlN54SjX71Ol4OX1tlIWH+tnXDcA7Ey88T
+P/qZ200JHN16o9CbBCNU1eOQ0NqC5hpNekbMjW5KaCMY9ZChxwpyf090liMSXSxK
+yRAzIn6FVAXnhMiAxGg/JcmKAcW1RFy1J2TWr0wsdtiOZpTG6bLTq4Ve+sdx1yOz
+VwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 14:41:29] [INFO] Send encrypted symmetric key to server
+[2024-12-31 14:41:29] [INFO] !Xì~Á”yÕûJ¹Ğ³wÌƒ¯Ü3´ívÙ˜¤Údk]=á¥Ä<·)%ÅÕb*s9ÎbNgÄßš»	åúøOªÔŠÖæ2?…×KŸ±¡°6)IÛÍù®øGğ¸ğ¶‰…óş‚´(ç ùÆ%âpT')´dµÂôJÚß{™¿>= ‰Ëq8Sqwä4'jJeÌUQ”yÆèïÚWÔ_¡üåı€-»¨Çó(¤+Ô‡ —¸rªSyt­Œø´³µòÃn¦…ãÓ»–®ÆB´†¬ÇÄç+÷<y] Aè>K…_hµíëÏÙAÎñk”–…¶vRà²û‹èÎ
+[2024-12-31 14:41:30] [INFO] User j enter command: ls
+[2024-12-31 14:41:35] [INFO] User j enter command: up filename.txt
+[2024-12-31 14:41:35] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 14:41:35] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 14:41:37] [INFO] User j enter command: ls
+[2024-12-31 14:41:41] [INFO] User j enter command: up test.txt
+[2024-12-31 14:41:41] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 14:41:41] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 14:41:42] [INFO] User j enter command: ls
+[2024-12-31 14:41:46] [INFO] User j enter command: cat test.txt
+[2024-12-31 14:41:46] [INFO] Command run sucessfully
+[2024-12-31 15:33:30] [INFO] User a login successfully
+[2024-12-31 15:33:30] [INFO] AES key generated successfully!
+[2024-12-31 15:33:30] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:33:32] [INFO] Received public key from server
+[2024-12-31 15:33:32] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApmVx+UbN5Jaskex4HKux
+9wiBWs7S2qETRkgpoL9wMPxUj4uazJbGtY4Ur60swrB7arq/8XJ7q0nXeFQbTZn8
+hug9oNtbsycrO8TV5y2B+zI/dsTLtrQ/u3vIt4Rs4rAfCzcQRYStGdC9Z82Jj5VJ
+dwmK/cXOC1kLl3wGNhcq5syv0CvXfLK9EirXyoG8yVTXhuXqU16nJ3tHBCIzf8Ab
+ncmvsclWeoDP87Q+ky6bZeK60svJtT9SCsv/LovaEOBKViskZmJ76iULX6UmZW9u
+fhxhEuAFE3R+LjZqkYOQnooaxE0c05W1mw+OIMtXkddym3ZDe/N37lYUMxdq4F0X
+EwIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:33:32] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:33:32] [INFO] ˜çh*\MIG3@Èi·Ì_ ¬è·ÃeÒó9N¿eÏ>T®5|xD#5˜]L†ºœ
+[2024-12-31 15:33:33] [INFO] User a enter command: ls
+[2024-12-31 15:33:46] [INFO] User a enter command: mkdir folder1
+[2024-12-31 15:33:46] [INFO] Command run sucessfully
+[2024-12-31 15:33:47] [INFO] User a enter command: ls
+[2024-12-31 15:33:51] [INFO] User a enter command: cd folder1
+[2024-12-31 15:33:51] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/folder1
+[2024-12-31 15:33:56] [INFO] User a enter command: up test.txt
+[2024-12-31 15:33:56] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 15:33:56] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 15:33:58] [INFO] User a enter command: ls
+[2024-12-31 15:34:04] [INFO] User a enter command: cat test.txt
+[2024-12-31 15:34:04] [INFO] Command run sucessfully
+[2024-12-31 15:34:06] [INFO] User a enter command: ls
+[2024-12-31 15:34:10] [INFO] User a enter command: cd .. 
+[2024-12-31 15:34:10] [ERROR] Command output: cd: KhÃ´ng tÃ¬m tháº¥y thÆ° má»¥c!
+[2024-12-31 15:34:12] [INFO] User a enter command: cd ..
+[2024-12-31 15:34:12] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a
+[2024-12-31 15:35:07] [INFO] User a enter command: up filename.txt
+[2024-12-31 15:35:07] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:35:08] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:35:10] [INFO] User a enter command: ls
+[2024-12-31 15:41:50] [INFO] User s login successfully
+[2024-12-31 15:41:50] [INFO] AES key generated successfully!
+[2024-12-31 15:41:50] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:41:51] [INFO] Received public key from server
+[2024-12-31 15:41:51] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnpyndkKlDpnLIr2YYuFd
+XN6/uQlyVLG2FMdLxtMCVnkZ599wz7lVpD+bOpH/aJJAiX0OZGRTN19STuHoq4Js
+CrtaiUG3YURMgFLrRvzZxp4GnALr61xpoGWVORgGQdDYRtVfHNYUdsYure0p7nxg
+313d88Ns3+XY6bEnkCPYh/MIPtZPKuHzV8jjF/oTHEdUakY17/YF2rO3wM1hDZ5N
+/bOT/J+BI5R+NQ4RpuU9E2SvygxoD/lFnUXF51VDgzE3gchdL1jS1PgiKCsHDFnW
+/jMekfcTdhKidENRJ+d/6qgLgUdUbCXMwDnFFFMBYMkIHuz+PPnyBEPEBur6WxQG
+CQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:41:51] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:41:51] [INFO] LQet'4ïšáÄò×¥z¡aĞTk €NÎ-™[ˆtòiLŠS¾ä¨Ä÷À£È?i€Ş)ë™Ed™ä#?hÈœâ‹, ÜiaØ)¸¡€’wê¸æ( ¾²ìN”Ùğ¯z^Á±²÷õÄÅG°ô,ù'`c şçq¡8kæéµ£ôåƒdÇÖKSxëœlé+&×ãÁİ^–RPŸÓ¯lZ3şİ¨u«ãq„úu«DÖ³Î¯³ŒÎù>¯Q(\RÅ@I¾µRmx_OÂGÀ!xMÆ&:Cy_@
+[2024-12-31 15:41:52] [INFO] User s enter command: ls
+[2024-12-31 15:41:54] [INFO] User s enter command: clear
+[2024-12-31 15:42:02] [INFO] User s enter command: mkdir folder1
+[2024-12-31 15:42:02] [INFO] Command run sucessfully
+[2024-12-31 15:42:03] [INFO] User s enter command: ls
+[2024-12-31 15:42:14] [INFO] User s enter command: up filename.txt
+[2024-12-31 15:42:14] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:42:15] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:42:16] [INFO] User s enter command: ls
+[2024-12-31 15:42:49] [INFO] User z login successfully
+[2024-12-31 15:42:49] [INFO] AES key generated successfully!
+[2024-12-31 15:42:49] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:42:50] [INFO] Received public key from server
+[2024-12-31 15:42:50] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3ESOzqwJrxBud8uk/DoA
++873TWENwANQ7DvR/3zs6xbHJOpH+p2PjwHlk3mREck3bJkplxfkfroRl6ewyeJY
+tmFj+c1upBb+VkDZxZy4/utmjzyCgm++JsrTpo7r90/g6n6wuYmVPKBmUiy3IAGR
+DxQHVhSqDFCI+tDYKcYLyq+Vpv2kGs+vwMOq7JMzPqBJxIi3nfmUBjpU1rF/HX0D
+shQzL569IjuI9uB6ueS9T3eWI+3iHo7bS49fKNz/sqCbyRoOWenM9bPE0mt+cUBX
+4ExrMehFicaSctTh9DMCIveNskqx+Ua6P24CCtsGjk4sGfw0KHgDYde40W7aQbiX
+0QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:42:50] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:42:50] [INFO] "÷6NCQ³}ÛHèîÂØˆäÚN JŒPø‘ ü_–«GËuBü»Èósd´XTTƒÖ>£”ßúÀ€	H$>ÎX/æ™ä«gu™ø¶¤ßlqûÊœòxC:*aKd9°›°ş8>6xŒ(`
+Ş]ËÌ1›>Ûòìïb‹¹xóıMß6CÜ¡¤>‹¯ı%Ê¶ì‡Í‹òº2î<mtª·ı3Í¨(¼´6“`l•.c˜ˆ$|ìİ6MXe6ï–ø"Œ¦æóœ„`ê5^½äo)üZ£óùx½È¨&á“+€%ÊÎáÇ'Zz0v®RP.¼
+[2024-12-31 15:42:51] [INFO] User z enter command: ls
+[2024-12-31 15:42:58] [INFO] User z enter command: up filename.txt
+[2024-12-31 15:42:58] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:42:59] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:43:00] [INFO] User z enter command: ls
+[2024-12-31 15:43:22] [INFO] User x login successfully
+[2024-12-31 15:43:22] [INFO] AES key generated successfully!
+[2024-12-31 15:43:22] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:43:23] [INFO] Received public key from server
+[2024-12-31 15:43:23] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtiSHm39w1MZiFK+DePcN
+gOAkI1Ab6OEf65S4a7lV5xkJbCCCLF/9rM1MA4BkNfa6MkysuSGbVR4OJNEcydJI
+SFwbwloyC4JEzTwXOAD/KCbt9KkiLRO6WE5WXpAuSVxn0/BNpVvZwEzD0EbK846q
+guMBOC6ium8G/2lTODnL+tU2OHxNSuzGrSqqZf07xObuKwcEa1o1wC6FXZgul21V
+9E7bj1S6ew8aqFTJoEJDZ+sDGN+E67LHaz3i3RdYvq4g/W9G4CpijOeritjQVNbm
+7i4WJkLBGAwUnCSITEbdOJU7HulIAKleNg3Q0+F1fRgEhjo1z9D0b8SzsuaMykLU
+5wIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:43:23] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:43:23] [INFO] ›´7ç9´×€½ä¾f"×U=–ı )9r>*,h0†ÊPTïÇ=õÓ¢¼4åÅ˜P$±åJ³=ŞwsV·ëprÕâáÄ(è;«Ù™4¢ÀDÂß6k¤Ï¦ÇN6õ}hã%mÖÎf>"¢ÃÛv]ÎhG9£bO4èÊâİ¹Y¬â(‘gØú”Ñi‚ûœÄ@‘	ì’yh.Œóupê¡ÜöÍãş7· aıƒ²rüÂsÁs•Õüú‡sÚ×ãô‹|Õåv=¼a½B™Ã–$ñi¸Tmâb4	Æ¢YpßšSGîjĞÅ/è{1ğX éé™şRÈ’­îşí)ªò¦)ŒÙÍ	
+[2024-12-31 15:43:31] [INFO] User x enter command: up filename.txt
+[2024-12-31 15:43:31] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:43:32] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:43:34] [INFO] User x enter command: ls
+[2024-12-31 15:43:46] [INFO] User v login successfully
+[2024-12-31 15:43:46] [INFO] AES key generated successfully!
+[2024-12-31 15:43:46] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:43:47] [INFO] Received public key from server
+[2024-12-31 15:43:47] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlirrzjd8+qTvfCZHUHIh
+UPyvDJzwTZ/jQqHaHJt/NTZptGXh5NxmnLO2wdvfsR9Qrb3vc2LLtmN9I/6oNzlB
+yNyTtVRrY7OZOycpxKQQVMTbi96eyzB8ipC2dNUP/n9btkF/ZTm+kt4ZYGsNgm9K
+egT4Jy5nnh80iAj3I19rfDu7kKh45FYBqJNDOdPr2zQYqTMJyCl+KrdOlmzR49JQ
+/K5gZT5WwxZJAbAeRSoEE3Pqn35oCYE/ipVVE5k/ZQSp4DwYCN7JG4clnywl9eZL
++CMUaVc0U4emN+9EjJ6e+KyWcAZPqtjrq21ip/Qa/Ca7uK1KcbQSO/ArKkzbDC9L
+2QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:43:47] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:43:47] [INFO] 7)ÄU÷½¶Ş”íé‡‡)^æ;¾Le†hr³†›õp›‡æ´'ä‹Óä.ÏÜ
+Ó*Y¡U«	Bœ—gT¤¤Í7ÀxY±…ÄçX2tœ¸H59 ,î2nAûU”ÊÒ¥ºVÙzµyr
+Ï—¬ÊªR<§à±)¸A*–×xğmèŒŸî*ïõêZ )à,¤"}±ÅZáW]ÚË¿Ë¼ñP\£² mıÏõ\ií­Ùw‚K¶à*§›L×EOí'
+[2024-12-31 15:43:47] [INFO] User v enter command: ls
+[2024-12-31 15:43:49] [INFO] User v enter command: clear
+[2024-12-31 15:43:55] [INFO] User v enter command: up test.txt
+[2024-12-31 15:43:55] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 15:43:55] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 15:43:56] [INFO] User v enter command: ls
+[2024-12-31 15:44:02] [INFO] User v enter command: cat test.txt
+[2024-12-31 15:44:03] [INFO] Command run sucessfully
+[2024-12-31 15:44:04] [INFO] User v enter command: ls
+[2024-12-31 15:44:13] [INFO] User v enter command: up filename.txt
+[2024-12-31 15:44:13] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:44:14] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:45:05] [INFO] User v enter command: up test.txt
+[2024-12-31 15:45:05] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 15:45:05] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 15:45:07] [INFO] User v enter command: ls
+[2024-12-31 15:45:17] [INFO] User v enter command: cat test.txt
+[2024-12-31 15:45:17] [INFO] Command run sucessfully
+[2024-12-31 15:45:21] [INFO] User v enter command: ls
+[2024-12-31 15:45:41] [INFO] User a login successfully
+[2024-12-31 15:45:41] [INFO] AES key generated successfully!
+[2024-12-31 15:45:41] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:45:41] [INFO] Received public key from server
+[2024-12-31 15:45:41] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjpeDjBj4WZEBK7IgRUuu
++zYvoJNgJV4EYoC+LQoGb/UcnhlewrsJQ/SznhcASHCLyZyvDJQty0LPrRg0jQTp
+HI5uEfD3ztyjXCiBLYzIWE688A+WzHW/gkXJW+SwmuNxLTGpAPtfa+YrtPhNdZwY
+TgV/FETNm6Uub5zuIQq87rOfygQd4oAAc17sKTuxtVPAoDHe5khnqWrd/WfyH43k
+5MfMPaQe1X8Y+JQxTYCERE0QRt8CemCj15JTQe/IwPobA/9t2XZq8XSkWEWc0VM1
+A14LiLcemu1qojhz017Jj9IcQIBWmMMGZ5VBIx0l0QoihjpkbcwYU84np7OoF8o7
+6QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:45:41] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:45:41] [INFO] P&ûI‚™¸¬M;“lú}İbşç¡€“Õ6FO˜Úåå5Ë¦-¢œÂ+ìw‘Ja°0ÛÜ	×bEnş/Â`aıf™²ô;ƒ}­:ªáÇÿnWàbV;4ŠfAâïÕú¾9İez»
+[2024-12-31 15:45:42] [INFO] User a enter command: ls
+[2024-12-31 15:45:50] [INFO] User a enter command: rm filename.txt
+[2024-12-31 15:45:51] [INFO] Command run sucessfully
+[2024-12-31 15:45:52] [INFO] User a enter command: ls
+[2024-12-31 15:45:59] [INFO] User a enter command: up filename.txt
+[2024-12-31 15:45:59] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:45:59] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:46:16] [INFO] User a enter command: ls
+[2024-12-31 15:46:31] [INFO] User s login successfully
+[2024-12-31 15:46:31] [INFO] AES key generated successfully!
+[2024-12-31 15:46:31] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:46:32] [INFO] Received public key from server
+[2024-12-31 15:46:32] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk4kdANCCoZST3O2q7aR3
+P03+BLB+RDgNyZuUxO/cBVqClby7xJEtqyt31EMHrgIKpJhBGf96Ge7BSgWKgJF1
+yKMaQiD31wc8kfVLwbhsyqAMFMP/PFaBtRucN9o39ITh6WhFp+gOkWzWB2F7Ledz
+rYPl5DLXZMhMXy+Dypnj0vjIoG5XzIwPZIBDDwlMRl/6ZZkC9rE5iRCtjcPDV6wZ
+bOdMjcojDBKiw5N0dVM9cfuCcDQwEceyB0QmAF6RN8a5706B9CEu/liFxvKQ2VSG
+Jtk2+JONBTcrhWks6R8/s4GCMyYh/0rglgIE86V6RU5hjFAS6PJClHpPZ6NMMVWW
+IQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:46:32] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:46:32] [INFO] H"9¥=±œİÊ8É=yì¡Kõu”Ñ”xşª}û¤ŞpÍ¥Â/·‘*h4¥®‚ƒÒO&N]çñAàÇ¬W­l§¬vé´Èpjì­Å{%ÉuŸb	f<:Ï
+[2024-12-31 15:46:33] [INFO] User s enter command: ls
+[2024-12-31 15:46:43] [INFO] User s enter command: rm filename.txt
+[2024-12-31 15:46:43] [INFO] Command run sucessfully
+[2024-12-31 15:46:47] [INFO] User s enter command: ls
+[2024-12-31 15:46:54] [INFO] User s enter command: up filename.txt
+[2024-12-31 15:46:54] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:46:55] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:46:59] [INFO] User s enter command: up test.txt
+[2024-12-31 15:47:14] [INFO] User f login successfully
+[2024-12-31 15:47:14] [INFO] AES key generated successfully!
+[2024-12-31 15:47:14] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:47:14] [INFO] Received public key from server
+[2024-12-31 15:47:14] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApeh3VC9MwwNcZv3CGh69
+ZTFhT/9PF88F0mYMwpy3SWWpb/tuQxJBHw2KMgF4Ota/lu9KmbDiYUi6iEtSAVG9
+/AlvTByyPv9KslwwIflOXx7Sm0YoROXcjTJD6tUEnm5p3jQGHxTlD4Uco5/FbWRQ
+al2+BMV9wdQL3Arz7QN662Yc1dINLBCmwrU1ufCZJ276eBBcYrXy0EOsXb6KjTbw
+IbIw5d9Q+jU/w+53Qk7+2UnSQhZtPR5HWQLHuY9gZx15KCNmgANLXS0qYX1+xzLt
+BWuUFdH3e9jy9iLSgeJ5S/F/LU2vhHSSAmQXparE87JWAAtCyl4uc9gg6cfnHgGF
+KQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:47:14] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:47:14] [INFO] -æ’7c
+OçuŒ"©‚^¥¥PÏî“ôÚ±H€-Àµˆõ¦Ş<ı›¢•.!ZW‚´˜6U‡ÒºöBGåÀà/¥¨k²2’UÍ’ÁÚx’¥"|y°íWnõ¼çì8ˆ4É$Óã$³ğMbÀ‚ÙNı5x‘8kÜWá¦
+1 ü/Äv­H-u5±Åzèê^½º5ÿAH[æ÷'¤ø2‰•±Õ\Bap+Ìbxµ·àşÕnÅÈsemò_eù6|c
+ç$-zJ(†¡'%‰
+3îeTk4ôVÕĞø$¹…¯¹KSÇ&Ûßèï.>²ª¸F:ˆöÌÆ
+[2024-12-31 15:47:15] [INFO] User f enter command: ls
+[2024-12-31 15:47:22] [INFO] User f enter command: up filename.txt
+[2024-12-31 15:47:22] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:47:23] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:47:27] [INFO] User f enter command: ls
+[2024-12-31 15:47:33] [INFO] User g login successfully
+[2024-12-31 15:47:33] [INFO] AES key generated successfully!
+[2024-12-31 15:47:33] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:47:34] [INFO] Received public key from server
+[2024-12-31 15:47:34] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2Nqw0EsfEhimdgHlXxFN
+UPoKg/eDPlyg4O6Cn3oQSnurhjZOea4PCI1wjnI4s6IEaKTMmU5PB/6bcqsXUTDc
+iKysX6LTpLgwkP7NaC//XSkHW1AsXG8EdYDmMROdtTIZajFyDw5begpaNn9DeUE0
+Q1YygkCi8G5WUocQV1WsleAKNlMsz+vEX1WFL/Q27NK9gU9/v94s3KxQzuF4dDeO
+A1iLagMabFAUqzbpSdIGWl5vsappUQFd4/YTnhkl/huiuKDnrpxJT/D4HNmfx+hR
+1T4h2w7MunLMIXlJTK8wY85dVS5InU9w7gmlEPVydOOGjv6xEgEhu1ZEa4/Nl9WI
+NQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:47:34] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:47:34] [INFO] m Aµb+(y^Ñ|Šä,JµjhSéÚU4!½f¡lNÁsvTê"¼ç.˜rRİf•½ß¹ÀâE½¨¬ÙGQX#b»¾Øìù	%’{¿5œ™Rë±²¢¦s\ÌcÂ¦˜OøSÿgâcZ1İ7i­ÅÈùA¢dnøs\=‚-Œê«2?JÚ÷b(˜Ë}³É¬cpKŸU+ûÖ/.2?Ò
+Tu+§EvÚšw:FãÅâ†c†hUp…f»3Õï˜¨äB£Ô’R	mçdÔ¥I¢Ë']¼—‘UtUS N7Ş
+[2024-12-31 15:47:40] [INFO] User g enter command: up filename.txt
+[2024-12-31 15:47:40] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:47:41] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:47:45] [INFO] User g enter command: up test.txt
+[2024-12-31 15:48:10] [INFO] User j login successfully
+[2024-12-31 15:48:10] [INFO] AES key generated successfully!
+[2024-12-31 15:48:10] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:48:10] [INFO] Received public key from server
+[2024-12-31 15:48:10] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxU7A5n060EagvVarMy/A
+jz8qOrwMZNOlYOyZqUXwaQ4oxaSS19hAWiUuxidIeKn38cvJESORwGZ5DXk9AHn3
+98MdvMVDZrR4kBSGJLEC9I9z53/lsp0yzmu4yyvu1Bl4XILqb0XP4hn+jOa05svi
+1BUlvMvS1dsNe6mzZB6lLbYe0Y+WoJJtdxFamoat0iXRYpTCmmolIrGgZPfPvwRd
+psErlWOVvyKwPcp6PVqiuvcpgJaZK8Hcac0UJa8+bVE9WKNQcub/kMkrFCMwZcIw
+XfXs8wTZBNT+dbOI8VMcp5naxlxIzGrAXhjKbxyDcJYTDx1mryx89Dmtd+3XEKFm
+2QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:48:10] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:48:10] [INFO] #Å‹Q5c@Pœ›ÌRÕÏÈ1H HWæ&»!±ÃÒ¦";˜.pş_ºz23ö
+[2024-12-31 15:48:19] [INFO] User j enter command: up filename.txt
+[2024-12-31 15:48:19] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:48:20] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:50:02] [INFO] User j enter command: up test.txt
+[2024-12-31 15:51:40] [INFO] User a login successfully
+[2024-12-31 15:51:40] [INFO] AES key generated successfully!
+[2024-12-31 15:51:40] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:51:40] [INFO] Received public key from server
+[2024-12-31 15:51:40] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtB0r9iHs2vaIPlb8ZcyZ
+cUZyTI+J2hVZsDt5gu/1JH+7vrhwcSVcLPmYLih+bO0ztispANr4n8ZkWZcVp0P2
+TAF9R9tYGbcqeabX0KU29s5ohBaNuMqdND8kUs2KHX61G+Hz/Smg/c/yxDNN6H+o
+Fh05rXJlUTJaQeu2exODcuqVaHBu1YMUMNxlQYiam0iC83FqHDT0mtHLZDq5Uo4T
+Eitx2HIuoc0WsXE7Jg6jrer4fEwNOdjBo7cbAbkoaJBM9Z6EsbfiUIjxB0zdw5+l
+fiOiYQNR1C/bRDYZs5f4a/AM8ArAifpdI2+r5a+wYc+mneqPHBIaCxvuuPl2N4GW
+DQIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:51:40] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:51:40] [INFO] ‡u›“¸¥#òAaÔë”
+[2024-12-31 15:51:41] [INFO] User a enter command: ls
+[2024-12-31 15:51:44] [INFO] User a enter command: up ok
+[2024-12-31 15:51:44] [INFO] Uploading file /home/gaubeo/okok.zip to server!
+[2024-12-31 15:51:44] [INFO] File /home/gaubeo/okok.zip uploaded
+[2024-12-31 15:51:46] [INFO] User a enter command: ls
+[2024-12-31 15:51:50] [INFO] User a enter command: cd ok
+[2024-12-31 15:51:50] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/ok
+[2024-12-31 15:51:55] [INFO] User a enter command: up log.txt
+[2024-12-31 15:51:55] [INFO] Uploading file /home/gaubeo/log.txt to server!
+[2024-12-31 15:51:55] [INFO] File /home/gaubeo/log.txt uploaded
+[2024-12-31 15:51:57] [INFO] User a enter command: ls
+[2024-12-31 15:52:05] [INFO] User s login successfully
+[2024-12-31 15:52:05] [INFO] AES key generated successfully!
+[2024-12-31 15:52:05] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:52:05] [INFO] Received public key from server
+[2024-12-31 15:52:05] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSqOS9ETI+POiqX4FCww
+m2ELeujEdr3cY4/o3AZ63zRj2H1mcCPMcv+xSbb87BgoHaeMFsu6//vthCgPXxbd
+8lMt0ftF9ip6YIAoZ/3s9VZwuBOA54mUxyhNc5FmzjhE12qljVerIvc+X97kopOh
+CWhVcM9VQQ0QQAnIFtY275GjNZJawHVNokRmAD2oq9Sj6SwSAkAqLV27tB7huu4m
+8jeU72Z1YvXB/8wiBtUPFgvPjivkOYpUhHyQfcAke0skOo3cs8Te5I7WWhRT87XG
+xgtLyNZQ3NIRmy4CnmPL3A22oOnMD4WFKogHUDzFq/VhTy3JuWs20PZCcITVlVfO
+8QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:52:05] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:52:05] [INFO] K^ÍÛ#Å”E‡:ûŞ.Ÿİ—¥älV)JÏŸ$š%YÑ]¦n÷v§Ò&à*5ó³£;/[’¦g–è‰a‚·b?Ş¾ÉY;°¾ ô*)şS™¥æËş1ë—P)§÷¤ol®ØƒÊ
+¶ÎÖË‡àf™Oòcr5
+Œ­²0Œ^Zaïˆf¢(¢Àû’‘•_âéŒbså³}M€F äôÓ4ãäÆ2usjê YÏ·¡_æBÚE'ÓÑß¶—8ØiMÇaŠã”¤%xtëU';³iZë-Ø<J6‡w´YëŠ\•¾NÜOŠàt(âüzŸ4B<u®Á
+[2024-12-31 15:52:10] [INFO] User s enter command: up log.txt
+[2024-12-31 15:52:10] [INFO] Uploading file /home/gaubeo/log.txt to server!
+[2024-12-31 15:52:10] [INFO] File /home/gaubeo/log.txt uploaded
+[2024-12-31 15:52:12] [INFO] User s enter command: ls
+[2024-12-31 15:52:17] [INFO] User s enter command: cat log.txt
+[2024-12-31 15:52:17] [INFO] Command run sucessfully
+[2024-12-31 15:52:31] [INFO] User s enter command: mkdir folder1
+[2024-12-31 15:52:31] [INFO] Command run sucessfully
+[2024-12-31 15:52:32] [INFO] User s enter command: ls
+[2024-12-31 15:52:36] [INFO] User s enter command: cd folder1
+[2024-12-31 15:52:36] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/s/folder1
+[2024-12-31 15:52:38] [INFO] User s enter command: ls
+[2024-12-31 15:52:44] [INFO] User s enter command: up test.txt
+[2024-12-31 15:52:44] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 15:52:44] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 15:52:45] [INFO] User s enter command: ls
+[2024-12-31 15:52:50] [INFO] User s enter command: cat test.txt
+[2024-12-31 15:52:50] [INFO] Command run sucessfully
+[2024-12-31 15:53:31] [INFO] User x login successfully
+[2024-12-31 15:53:31] [INFO] AES key generated successfully!
+[2024-12-31 15:53:31] [INFO] gÆisQÿJì)Íº«òûãF
+[2024-12-31 15:53:31] [INFO] Received public key from server
+[2024-12-31 15:53:31] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw3la5KzwUNKdtNYlmxoW
+sPK8qFOY4+Is8/xBeBElZb8LrnlQlNR82cv07oj/pk8v7UXczhSxSA99PTZR49LV
+61EEpXciqY+eeN9fZ/eD7Ws1fYedc9yfd8mUz1oMolCde6eymBiDbB+aYAG9126m
+MGA18x44mpj3HOZEYv27E2WC17z8I0C3CFHq3GBNaIzYPge1ER1TeBlc9vj+gqXP
+fc/3izIk8F+ncDbGeanvuUpqqzvhWkfIH8qcBtdCtiVcatypq/0d2aXSYanRTcpE
+LaqIdIBPJLf0q6WGYngwY4+Wm6ELadZsS0jplzNoXSyPRbz35HqyMTLeWj00YhtR
+2QIDAQAB
+-----END PUBLIC KEY-----
+
+[2024-12-31 15:53:31] [INFO] Send encrypted symmetric key to server
+[2024-12-31 15:53:31] [INFO] Pı¥¶ûŠ`+ÓÛ2W%nÏqêœ˜‡+~{/3ĞAà³: AŸûª_Z–İ›t¦²K¥CÀİ)±g€-¹á„Ù”R™M Ğ¦·.Úkz
+Mõ+¨KÍ'¡àPOÕ$~‹
+i{ßä[_ß| é6s¬÷ëÅ—:ƒûLCëY´ìI¾ğh>Ğ#oH¤}ƒŞ§÷?Nj»ÿhŠŒëK!ìDğÕ¶1²ÊëçÆ<Ä@fŒt˜#ßÈaøO:A|P•U%'§¸ok)~Š{ë»udºœYİyò9îÓÛÅ
+[2024-12-31 15:53:34] [INFO] User x enter command: ls
+[2024-12-31 15:53:39] [INFO] User x enter command: up test.txt
+[2024-12-31 15:53:39] [INFO] Uploading file /home/gaubeo/test.txt to server!
+[2024-12-31 15:53:39] [INFO] File /home/gaubeo/test.txt uploaded
+[2024-12-31 15:53:40] [INFO] User x enter command: ls
+[2024-12-31 15:53:44] [INFO] User x enter command: cat test.txt
+[2024-12-31 15:53:44] [INFO] Command run sucessfully
+[2024-12-31 15:53:50] [INFO] User x enter command: mkdir folder1
+[2024-12-31 15:53:50] [INFO] Command run sucessfully
+[2024-12-31 15:53:51] [INFO] User x enter command: ls
+[2024-12-31 15:53:55] [INFO] User x enter command: up ok
+[2024-12-31 15:53:55] [INFO] Uploading file /home/gaubeo/okok.zip to server!
+[2024-12-31 15:53:55] [INFO] File /home/gaubeo/okok.zip uploaded
+[2024-12-31 15:53:57] [INFO] User x enter command: ls
+[2024-12-31 15:53:59] [INFO] User x enter command: cd ok
+[2024-12-31 15:53:59] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x/ok
+[2024-12-31 15:54:01] [INFO] User x enter command: ls
+[2024-12-31 15:54:05] [INFO] User x enter command: cat text.txt
+[2024-12-31 15:54:05] [INFO] Command run sucessfully
+[2024-12-31 15:54:06] [INFO] User x enter command: ls
+[2024-12-31 15:54:10] [INFO] User x enter command: cd ..
+[2024-12-31 15:54:10] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/x
+[2024-12-31 15:54:13] [INFO] User x enter command: ls
+[2024-12-31 15:54:18] [INFO] User x enter command: cat test.txt
+[2024-12-31 15:54:18] [INFO] Command run sucessfully
+[2024-12-31 15:55:11] [INFO] User x enter command: up filename.txt
+[2024-12-31 15:55:11] [INFO] Uploading file /home/gaubeo/filename.txt to server!
+[2024-12-31 15:55:11] [INFO] File /home/gaubeo/filename.txt uploaded
+[2024-12-31 15:55:13] [INFO] User x enter command: ls
+[2025-01-01 22:23:59] [INFO] User a login successfully
+[2025-01-01 22:23:59] [INFO] AES key generated successfully!
+[2025-01-01 22:23:59] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:24:00] [INFO] Received public key from server
+[2025-01-01 22:24:00] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtRso6AAsEf5d4Qam6uYH
+liEInAOgIV2FrwUPqr2j26Tt8g1lNc1Ul29WPxl91TGnvqNuGHKuQ1TKwpmOLtTy
+36HnzVCUFcOEBVNtfiRo6TYmz1pm8a1x+S8MnTy7IGN26OdSLk7gEZ+OY6WvHgL/
+Gp02eCaCqDiPSDCueXPL0duABJEObL6dmm4FF5104+xFBfUJU0uuOSB6hMH/aGhp
+updjnAU9u2T1vDkgbVMO7mMTGXh9G72sjDUqVMKSyB4Ysz/Nq6m4gAADNJDvzLRt
+W3xhlBzMl9Wg8HZDA8H4y/0zIu93GcCw3Wu8JRcKn7w1+6v8pWcLwwKv1EgrrXgP
+3wIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:24:00] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:24:00] [INFO] £t`D½Dp
+[2025-01-01 22:24:08] [INFO] User a enter command: ls
+[2025-01-01 22:24:22] [INFO] User a enter command: touch file.txt
+[2025-01-01 22:24:22] [INFO] Command run sucessfully
+[2025-01-01 22:24:32] [INFO] User a enter command: find file.txt
+[2025-01-01 22:25:08] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:25:09] [INFO] Downloading 0 files
+[2025-01-01 22:35:04] [ERROR] User a enter invalid command
+[2025-01-01 22:35:12] [INFO] User a enter command: exit
+[2025-01-01 22:35:13] [INFO] User a exit
+[2025-01-01 22:35:31] [INFO] User a login successfully
+[2025-01-01 22:35:31] [INFO] AES key generated successfully!
+[2025-01-01 22:35:31] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:35:31] [INFO] Received public key from server
+[2025-01-01 22:35:31] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArDEMG3JS5CdAKCvMcUo7
+IZ1sBY279t42rmtNxaIf5jE8bWrnoxtDUIA1jrRK4HGER4arPQoBHsu0sHtk/Prb
+4ULw5hWqO62nAA/6yRB/RkjtCBMyn7rwv5riNvU9JyeZQCLJsb8c00A8XFtCQBAV
+nXZdZ8ssqpLslCeC5OywzQYOK9jCUHwH2gK0zmnnwKKsJrYWQ2pfUkPZzZCpg+SX
+QokVUYpPW+pvd34fDwL7BEd4HfWvd90jD8qaKVINeZj7ORiNCZrRUezrtvv4gB8d
++m1fE0SQvZQxY88/DUjWDWVFPatDlCriVcG8XcmLRpUpcDfltodw9UlMA4qdiRZO
+CQIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:35:31] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:35:31] [INFO] Gò"8trA¬`Ãûãœ@ŸQ·æ§Hw-¬J‚,»ı“¤PÍĞÆç¥b7Ù“	Ôv¨ún„0e çÑ>¢_GÍåÜrÀØ?«Wµà@)G'è6ı¬² ë^œù”&%NÅ
+[2025-01-01 22:35:36] [INFO] User a enter command: ls
+[2025-01-01 22:36:15] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:36:15] [INFO] Downloading 0 files
+[2025-01-01 22:36:34] [INFO] User a enter command: find file.txt
+[2025-01-01 22:39:27] [INFO] User a enter command: exit
+[2025-01-01 22:39:27] [INFO] User a exit
+[2025-01-01 22:39:59] [INFO] User a login successfully
+[2025-01-01 22:39:59] [INFO] AES key generated successfully!
+[2025-01-01 22:39:59] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:39:59] [INFO] Received public key from server
+[2025-01-01 22:39:59] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvps47EOqy9HAuv7Dd9kY
+BojkwvoP3sXqPK67rgO+CCW4eLnKsLIZSAQj/Z36EdnrUflM0Rnh14QiyltxrYz1
+LNAmgYgujnOaRUGIZMQWq0GvcFyytnc22d/T1erjYzrnSnv60fErBiRJ5ho1sAgh
+4gGazlnlLQApJm389Y1dkZM62fpDeZSfXUY2Zjyqnc5yK8xvGnL44MYs75gBC1g7
+P5zGz76z4/m3zHEdmwpH3M0UNcK3pB+atTZVWyegLPLmZOt7V7xi3ZLdTstGTSuV
+nCol+oB7EKky/Bfs1zrapGMcLAHikTUIq3y7OT1gKKGMtURQb40VHn7rzjR7EqNI
+fQIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:39:59] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:39:59] [INFO] ’Áüƒ™Ş=»}É×¢Ô˜"1ø7€å.‰©K2–fÅl/y¥Áïça
+Ğ*pq­~n¶ò¬ì÷?z€;füÉh‡$óæoÅœ¬Š*¡¨|&à{ÎŠv3B-ıáèV§BøŒÏ†‡ª¹ù#¾E….¼Ñ"êĞƒ2“Aï{O<Êú1úÊÃ¨ë’'Y\öù‚F¬`„fù/,‚úi!WXJbú_§/6®‰k{o^ÿ©8yUÈç¨ k,ÁÅæAS£Â&¤‹
+[2025-01-01 22:40:00] [INFO] User a enter command: ls
+[2025-01-01 22:40:10] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:40:10] [INFO] Downloading 0 files
+[2025-01-01 22:40:18] [INFO] User a enter command: find file.txt
+[2025-01-01 22:40:34] [INFO] User a enter command: exit
+[2025-01-01 22:40:34] [INFO] User a exit
+[2025-01-01 22:45:36] [INFO] User a login successfully
+[2025-01-01 22:45:36] [INFO] AES key generated successfully!
+[2025-01-01 22:45:36] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:45:36] [INFO] Received public key from server
+[2025-01-01 22:45:36] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx6EaKqkbQpa3JE4IhMu4
+sko7N5jm/gzU4UsbEJ50KmvQiedoZqV9j7VCbBQ9cspPNilg4gRI4hUOTI4pamD5
+pRk+QlxsGfKVZ8LGPO925RMm/dCq6ShZXML/REO9l5mscb57hID7jDqLChWYuVS0
+BSu28EnciSVskjzVNeHVd5aZb4+L5iQr3iDFvKgw7WzAk/KbsNnoc3YHSyYtTd+0
+4pBtpLArR6yEAYBSLXVX3Ev65zKRxdbzPZmXzIFkvcdL32vy1BO4CWip8iVLh3UX
+kR7I9FkVXHva5qos6QHgj7C1m/XVhOAtZHhntVcELWugwqytH1q02EINoLGL/Jol
+uwIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:45:36] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:45:36] [INFO] u!ÈIf<d¿¨[İ_‰b1µ^1ú,1<Ó¿s Ê)¼¢ÿ1ól#Xp”9©\\Bß,b$M%%!CL4]ö³Ë]®Ì
+[2025-01-01 22:45:37] [INFO] User a enter command: ls
+[2025-01-01 22:45:46] [INFO] User a enter command: find file.ttx
+[2025-01-01 22:46:00] [ERROR] User a enter invalid command
+[2025-01-01 22:46:10] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:46:11] [INFO] Downloading 0 files
+[2025-01-01 22:51:45] [INFO] User a enter command: exit
+[2025-01-01 22:51:45] [INFO] User a exit
+[2025-01-01 22:51:57] [INFO] User a login successfully
+[2025-01-01 22:51:57] [INFO] AES key generated successfully!
+[2025-01-01 22:51:57] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:51:58] [INFO] Received public key from server
+[2025-01-01 22:51:58] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuBcj1U9XssViLPMJdOHn
+m4/HC12uCIUVORx56eTqWnSOAAMVcfaO2TdHPSLvZy2tMxQ0aNWnGCd4+QKF+uGO
+ByM8PBcHbOAID5QFp/EGjleE1paflK51XSq/wf9/Dyyk62j6TRIbo9OtOyTZn1qN
+fYtb5sstZbRRxhhDBgYYkVVtUu9TY/grOEkmb/dKEX/moQH1v25SMVRv39xstItX
+0FaZRt9+S8wsnW8JCKyxayJ6aJbhhTHmnHJm2ulUPbxl9PzwPd0HViwHrIRUUHmF
+qHDYsi92DG2jyqivN3pTsIQFQwA6FrLc9Sccm3y6K1NmQxoHSZ/dfBnKVUgu3gSw
+DQIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:51:58] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:51:58] [INFO] QÚ&ÅäÖyã ´ºB×*Î–İš§îT¾ºw·/ƒÉ—úúr{[ãÙÃznğÅÒ–°ğ·>xŸ(·niÖê—%…îóB¢áúªà>¾Ó:+7o«b‰ùäUçĞÇV—^ÿ;Óc²C4Rj¯aÓÙq¥§!à=ÿê$Aìt=×@ç£Àyº.DæÜçYI»–çºïßoœßmN…g))á~º›%–ÊúÑ³ıl	)EqI,“â,lAhs&ˆâ^7ŠTŸ2E¦ Q"n†ï»Û,•ßi%805Mò>ç½…)<3}OÛÖûX¹òï¤’hò+ÃşÄ‰ì¸“Ãñ
+[2025-01-01 22:52:04] [INFO] User a enter command: find file.txt
+[2025-01-01 22:52:27] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:52:27] [INFO] Downloading 0 files
+[2025-01-01 22:55:40] [INFO] User a enter command: exit
+[2025-01-01 22:55:40] [INFO] User a exit
+[2025-01-01 22:55:55] [INFO] User a login successfully
+[2025-01-01 22:55:55] [INFO] AES key generated successfully!
+[2025-01-01 22:55:55] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:55:55] [INFO] Received public key from server
+[2025-01-01 22:55:55] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt+ihxvLkr+iJ/xsKuQYx
+GGTohKAPloUcbEe/d7MtpXwFsW0kmabhCD2QGf1XKW45hIYjmR+FCVjDX2nt5oqt
+QA6NDV22QInvbYP8FHjJkppSvfCvENbKHTvL1VJAN/9yRinGQ5PHfVjyLD51ig+s
+ZA/HdAlUxCVYYd++XJ9k5io393530O4tnIeW4amquQW2AffEDieWpZarF94h1XFs
++BqD7o5n7eQHXgNgPWy0I0FJoiyl9rW8APRH7LAhwCg976fZNei1QNfPoGUyqUTM
+byE4O7yWBn0R/nmagile4mQxidpmkcQr05Thli9lwgF9dE+HVmXJFGGPff+WXh2+
+jwIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:55:55] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:55:55] [INFO] S9~¸‘¶MüfğG{)g%,Üa½ 'b_ığ;ïA¨ÕÈy‰Ùøc¥ı„f}Šç€ÚÃ(˜bYŞéø­)È/X%Í
+[2025-01-01 22:55:56] [INFO] User a enter command: ls
+[2025-01-01 22:56:01] [INFO] User a enter command: find file.txt
+[2025-01-01 22:56:56] [INFO] User a enter command: exit
+[2025-01-01 22:56:56] [INFO] User a exit
+[2025-01-01 22:57:10] [INFO] User a login successfully
+[2025-01-01 22:57:10] [INFO] AES key generated successfully!
+[2025-01-01 22:57:10] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 22:57:10] [INFO] Received public key from server
+[2025-01-01 22:57:10] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6xoV76+6vqTkBRFFHq3h
+CYtgaS1Rycf06pEylpxaJJBTQWV+h2WTsbvwFKHRCHg+9vqWmPjr6aF4XfZ7fhbM
+y9ZX0MitvhiQYXOli2nyYu9UMW4RVGSjU8CS/95iTda/PQ0O5oXL+zp60U5DnSga
+RCLyqNqtJTdqiy68UOMiPLI8LSXIZHPPvUKCoT4QUtHAf90zRgiBnqGyCY3V9S0h
+y9SyviCQExuzNJB8jsmLVb4ZY9jboXtjPbPJ3huGG0qscyRkko2hVXSFrJ0N4XRf
+yzbhvQH5Rzi8ZMvDn1QoSA2967DAnJuVYFxBZ8SsxStCPv4tc+9G/GkzbEbj+ZhT
+vwIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 22:57:10] [INFO] Send encrypted symmetric key to server
+[2025-01-01 22:57:10] [INFO] æ´éKÆQgÇ”vR±Ÿ68ÖÃ¨tÈoÌ—BoÑÑTnÉ¢â¡ÇÂÈQä	ğÏkMÌv€0½CGÁ2V¸J×!qÔƒeK™õ
+[2025-01-01 22:57:11] [INFO] User a enter command: ls
+[2025-01-01 22:57:18] [INFO] User a enter command: find file.txt
+[2025-01-01 22:57:45] [ERROR] User a enter invalid command
+[2025-01-01 22:57:55] [ERROR] User a enter invalid command
+[2025-01-01 22:58:05] [INFO] User a enter command: find file.txt | dl
+[2025-01-01 22:58:05] [INFO] Downloading 0 files
+[2025-01-01 22:59:55] [INFO] User a enter command: ls
+[2025-01-01 22:59:58] [INFO] User a enter command: cd ok
+[2025-01-01 22:59:58] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a/ok
+[2025-01-01 22:59:59] [INFO] User a enter command: ls
+[2025-01-01 23:00:04] [INFO] User a enter command: cd ..
+[2025-01-01 23:00:04] [INFO] Command output: /home/gaubeo/cppdrive2/build/storage/a
+[2025-01-01 23:00:22] [INFO] User a enter command: find /ok | dl
+[2025-01-01 23:00:22] [INFO] Downloading 0 files
+[2025-01-01 23:02:23] [INFO] User a enter command: find /home/gaubeo/ok | dl
+[2025-01-01 23:02:23] [INFO] Downloading 0 files
+[2025-01-01 23:02:39] [INFO] User a enter command: find /home/gaubeo
+[2025-01-01 23:03:24] [INFO] User a enter command: exit
+[2025-01-01 23:03:24] [INFO] User a exit
+[2025-01-01 23:03:41] [INFO] User a login successfully
+[2025-01-01 23:03:41] [INFO] AES key generated successfully!
+[2025-01-01 23:03:41] [INFO] gÆisQÿJì)Íº«òûãF
+[2025-01-01 23:03:42] [INFO] Received public key from server
+[2025-01-01 23:03:42] [INFO] -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvn5lWKNA7BJZ41PY+5u4
+ZBvhwYuanRoP2EH75shLJIwOtvVVYAjG1pbz+GMEhMPDCyqV+Az9a41BdQtnyrsU
+F8WdtD1SueIPhw5ah2pgE1Oq6wecDmYZQaXZJwQgH+inWhxOVGk0AAyfwKkVb80v
+MTH84Mn9VG07drsj2dEo+Cyl6SB9Smr7yKF1kx3WQxRx5oTanUIqLTPQn3pHtmUJ
+EiFOqzloneKyAlL8+hZJavO0mOGlROzl8OcE1Q22d0PaNx16En15t7RCgkib/cdx
+o+bZx/Rfu8CxQmh594Z+1EJUnqA4MhvdLXdQ2sOK2pvLi0/wCQrR0CCYmhzUpmSn
+zwIDAQAB
+-----END PUBLIC KEY-----
+
+[2025-01-01 23:03:42] [INFO] Send encrypted symmetric key to server
+[2025-01-01 23:03:42] [INFO] „ë»ó×j‚Ê†ò@aNzqÖ‚Q[u¯øøYE\ÄùÆ*…§xàDL½¾QéÌ&›ˆw"ë”)ñ°„¥ÜdO}™ˆ`LˆRlK9e'
+·ÎjÜ<”‹èËJÙÕ0u5·ö)•
+Å8H÷3ÔKŒjå]Ôä¸£«Ze{!Ë6½-Ş¬0êªÎ©Ìì£ñ‘h5ï –˜YüiöÌx.©ñ¸³Ê®û1ÕÅH¾cI:*§î_–MİÜ.-Ggv0
+[2025-01-01 23:03:42] [INFO] User a enter command: ls
+[2025-01-01 23:03:51] [INFO] User a enter command: find file.txt
